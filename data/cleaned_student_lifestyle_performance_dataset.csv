@@ -1,0 +1,1001 @@
+Age,Branch,Study_Hours_per_Day,Sleep_Hours,Screen_Time_Hours,Gym_Hours_per_Week,Diet_Type,Attendance_Percentage,Stress_Level_1_to_10,Residence,Internal_Marks,CGPA,Risk_Level
+23,ECE,4.14,6.84,9.23,2.67,Non-Veg,81.24,4.93,Hosteller,65.86,7.52,Low Risk
+20,Civil,5.97,5.52,3.09,15.61,Veg,90.55,6.96,Day Scholar,62.52,7.21,Medium Risk
+24,Electrical,3.19,3.39,5.02,2.52,Veg,69.4,7.38,Hosteller,40.11,4.84,High Risk
+21,CSE,4.77,6.44,9.21,0.0,Non-Veg,80.79,5.84,Day Scholar,61.25,6.74,Medium Risk
+23,Civil,5.42,6.54,4.76,9.93,Veg,82.63,6.67,Day Scholar,64.54,7.77,Medium Risk
+19,ECE,3.01,7.25,5.07,13.89,Non-Veg,80.43,3.28,Hosteller,64.4,7.26,Low Risk
+23,ECE,2.77,6.24,1.66,8.0,Non-Veg,76.35,3.3,Day Scholar,57.73,6.87,Medium Risk
+24,CSE,3.77,4.71,3.94,9.44,Veg,76.02,4.66,Hosteller,60.32,7.04,Low Risk
+21,Mechanical,3.31,5.51,6.11,17.94,Veg,79.34,5.8,Day Scholar,54.83,5.9,Medium Risk
+20,IT,5.73,8.08,9.86,13.97,Non-Veg,87.37,6.06,Day Scholar,72.57,7.7,Medium Risk
+24,ECE,2.5,5.5,4.61,7.17,Veg,73.66,3.06,Hosteller,59.66,6.8,Medium Risk
+24,Electrical,4.1,8.4,1.67,4.59,Veg,81.66,3.44,Day Scholar,70.05,7.25,Low Risk
+19,Electrical,7.82,7.76,2.19,13.13,Veg,100.0,5.89,Hosteller,79.26,9.35,Low Risk
+22,ECE,4.62,6.12,4.93,11.64,Veg,84.6,5.7,Day Scholar,69.06,8.52,Low Risk
+21,Mechanical,4.87,5.63,7.35,9.34,Non-Veg,86.45,6.65,Day Scholar,50.7,6.38,Medium Risk
+18,Mechanical,5.74,7.76,6.27,5.17,Non-Veg,94.98,4.56,Hosteller,70.35,8.41,Low Risk
+24,Civil,3.31,6.21,5.92,6.57,Non-Veg,79.73,4.19,Hosteller,46.6,5.91,Medium Risk
+22,Electrical,2.38,4.65,7.62,6.17,Veg,70.2,5.58,Hosteller,60.19,5.56,Medium Risk
+18,Civil,4.26,7.17,3.56,5.26,Veg,80.83,3.98,Day Scholar,71.3,8.78,Low Risk
+21,Electrical,4.4,7.0,5.04,3.63,Non-Veg,88.14,3.72,Hosteller,78.09,8.16,Low Risk
+17,IT,1.57,7.87,3.96,8.49,Veg,68.43,1.0,Hosteller,62.06,6.91,Medium Risk
+22,IT,4.56,6.92,4.46,3.38,Non-Veg,80.94,4.25,Hosteller,81.55,8.94,Low Risk
+25,CSE,5.6,5.84,2.99,7.99,Veg,84.87,5.59,Hosteller,58.32,6.98,Medium Risk
+17,Civil,2.63,8.02,4.31,0.0,Non-Veg,74.52,1.23,Day Scholar,74.0,8.04,Low Risk
+19,ECE,4.65,8.14,4.94,3.64,Veg,78.99,3.05,Day Scholar,72.27,8.54,Low Risk
+23,Civil,5.34,6.78,4.26,13.15,Veg,93.12,6.36,Day Scholar,72.35,7.53,Medium Risk
+20,ECE,4.88,6.57,4.68,1.96,Veg,79.21,5.38,Day Scholar,77.31,8.03,Low Risk
+25,Mechanical,5.02,4.91,5.81,10.32,Veg,92.5,9.66,Day Scholar,48.89,5.51,High Risk
+19,Civil,3.63,5.77,7.48,2.42,Veg,76.74,2.85,Day Scholar,68.37,7.64,Low Risk
+21,Mechanical,2.31,7.41,7.62,11.34,Non-Veg,66.16,2.21,Hosteller,67.84,7.3,Low Risk
+19,IT,3.33,5.83,6.52,5.34,Non-Veg,77.59,4.05,Day Scholar,60.54,6.51,Medium Risk
+23,IT,3.12,4.75,2.48,5.11,Non-Veg,70.84,4.41,Hosteller,72.39,7.47,Low Risk
+21,CSE,3.88,10.0,4.28,7.3,Non-Veg,79.57,1.0,Hosteller,85.41,8.94,Low Risk
+25,Civil,5.64,4.74,4.45,0.0,Veg,85.31,7.79,Hosteller,62.19,6.93,Medium Risk
+23,Mechanical,2.03,9.21,3.69,12.44,Veg,74.89,1.0,Hosteller,62.84,7.25,Low Risk
+18,ECE,4.22,6.13,5.68,14.3,Veg,81.77,5.18,Day Scholar,68.15,7.12,Low Risk
+20,IT,2.4,6.4,1.81,4.98,Non-Veg,66.08,2.31,Day Scholar,72.98,8.2,Low Risk
+25,IT,2.89,5.69,8.39,9.94,Veg,71.46,4.53,Day Scholar,58.05,6.39,Medium Risk
+18,ECE,4.84,7.44,7.39,11.36,Non-Veg,87.72,4.17,Hosteller,78.25,8.4,Low Risk
+25,Mechanical,2.22,4.77,5.96,6.49,Veg,77.51,3.32,Day Scholar,65.75,6.76,Medium Risk
+21,Mechanical,5.1,4.29,4.88,0.79,Non-Veg,85.28,7.56,Day Scholar,60.34,6.56,Medium Risk
+18,Civil,1.97,8.43,7.46,15.93,Non-Veg,64.64,1.0,Day Scholar,63.35,7.36,Low Risk
+20,Civil,5.0,5.54,6.38,4.8,Veg,90.27,6.54,Day Scholar,75.42,7.38,Medium Risk
+23,Electrical,1.68,7.4,7.21,3.59,Veg,71.88,1.61,Day Scholar,69.58,6.88,Medium Risk
+24,Electrical,3.07,5.2,4.88,16.18,Non-Veg,81.9,4.35,Day Scholar,52.62,6.41,Medium Risk
+19,CSE,6.84,7.35,8.58,10.42,Veg,95.67,6.81,Hosteller,76.47,9.0,Medium Risk
+17,IT,6.56,8.52,7.33,8.44,Veg,90.21,5.16,Hosteller,77.59,9.06,Low Risk
+20,Civil,3.38,5.87,6.02,1.56,Non-Veg,79.49,4.64,Day Scholar,70.99,7.42,Low Risk
+18,Mechanical,4.58,4.18,7.51,11.5,Veg,84.56,7.44,Hosteller,65.96,6.31,High Risk
+24,ECE,5.81,8.53,4.16,21.0,Non-Veg,86.16,6.46,Hosteller,65.81,7.59,Medium Risk
+20,Mechanical,5.02,7.61,2.66,11.93,Non-Veg,86.1,5.52,Day Scholar,56.34,6.17,Medium Risk
+18,IT,3.59,5.93,5.64,9.78,Veg,76.97,4.95,Hosteller,49.65,5.94,Medium Risk
+22,Electrical,2.88,6.24,4.89,11.04,Veg,78.1,2.84,Day Scholar,65.11,6.29,Medium Risk
+22,Mechanical,5.3,5.17,4.6,5.16,Veg,88.97,6.84,Hosteller,69.78,7.3,Medium Risk
+20,CSE,5.7,8.2,7.43,5.11,Non-Veg,83.22,6.11,Day Scholar,65.54,7.74,Medium Risk
+22,IT,6.57,5.86,5.33,5.04,Veg,87.11,7.15,Hosteller,52.34,6.98,Medium Risk
+18,Electrical,1.47,4.8,5.53,3.78,Non-Veg,66.9,3.51,Hosteller,56.7,5.72,Medium Risk
+18,ECE,2.12,6.76,4.35,5.03,Veg,70.77,2.14,Hosteller,55.1,6.44,Medium Risk
+20,Electrical,5.74,5.47,6.76,5.0,Veg,92.52,7.64,Hosteller,71.52,7.48,Medium Risk
+24,CSE,1.67,5.26,6.4,5.63,Veg,70.93,2.97,Day Scholar,58.92,6.38,Medium Risk
+23,IT,5.86,5.98,6.75,5.47,Veg,96.58,7.05,Hosteller,61.64,7.87,Medium Risk
+25,ECE,3.68,6.6,4.01,8.36,Veg,76.05,3.66,Day Scholar,51.32,6.15,Medium Risk
+24,CSE,3.22,4.84,7.61,7.44,Veg,73.47,6.69,Day Scholar,51.47,5.92,Medium Risk
+21,Electrical,4.31,8.16,8.68,7.94,Veg,76.74,2.46,Hosteller,72.39,8.42,Low Risk
+18,CSE,1.98,7.31,6.68,15.52,Veg,73.66,2.65,Hosteller,56.8,6.25,Medium Risk
+21,IT,5.24,6.06,3.38,7.43,Veg,86.29,5.59,Day Scholar,61.48,6.61,Medium Risk
+24,Civil,6.53,5.42,3.4,19.38,Non-Veg,83.4,7.26,Hosteller,78.88,7.77,Medium Risk
+25,CSE,5.31,6.39,4.25,8.98,Veg,87.54,5.21,Day Scholar,78.24,8.43,Low Risk
+25,CSE,3.63,7.58,3.87,4.5,Veg,79.48,1.34,Hosteller,70.47,7.0,Low Risk
+17,Electrical,1.69,7.39,4.86,14.56,Non-Veg,67.74,1.74,Day Scholar,56.63,6.56,Medium Risk
+25,Electrical,1.75,7.77,6.26,6.55,Veg,70.24,1.0,Hosteller,72.16,7.37,Low Risk
+23,ECE,2.01,5.92,5.58,0.0,Non-Veg,63.93,2.72,Hosteller,62.29,7.13,Low Risk
+25,Electrical,3.98,3.0,5.4,6.98,Veg,88.11,8.74,Day Scholar,42.3,5.21,High Risk
+24,Mechanical,4.17,8.0,4.52,5.6,Veg,82.75,3.9,Day Scholar,75.27,8.9,Low Risk
+17,IT,5.3,6.3,4.85,16.0,Non-Veg,77.64,4.57,Day Scholar,51.34,7.17,Low Risk
+24,IT,1.31,7.3,6.59,1.97,Veg,66.5,1.32,Hosteller,56.83,5.84,Medium Risk
+24,Civil,5.97,8.5,1.0,5.14,Non-Veg,91.87,5.6,Hosteller,75.52,9.11,Low Risk
+19,Civil,5.04,9.42,4.98,14.1,Veg,79.64,1.98,Hosteller,80.3,8.14,Low Risk
+17,IT,3.51,5.72,5.58,9.21,Non-Veg,80.22,5.3,Hosteller,61.14,6.89,Medium Risk
+24,Civil,2.22,6.66,6.57,6.04,Non-Veg,79.48,1.41,Day Scholar,56.04,7.09,Low Risk
+19,ECE,5.87,8.14,2.98,2.76,Veg,86.15,5.12,Day Scholar,67.91,8.17,Low Risk
+19,Electrical,3.55,5.49,2.87,8.97,Non-Veg,79.89,5.19,Hosteller,59.05,6.46,Medium Risk
+17,IT,3.97,5.8,6.17,6.84,Veg,80.89,5.83,Hosteller,45.94,6.15,Medium Risk
+21,Civil,4.58,5.79,1.19,2.7,Non-Veg,87.72,6.38,Hosteller,64.43,6.83,Medium Risk
+23,IT,2.63,6.47,7.66,2.99,Veg,72.61,1.81,Day Scholar,58.45,7.34,Low Risk
+25,Mechanical,3.58,6.24,5.45,2.44,Non-Veg,72.55,4.48,Day Scholar,57.88,6.84,Medium Risk
+23,CSE,5.3,5.79,8.12,1.44,Veg,91.01,7.96,Hosteller,60.89,6.65,Medium Risk
+25,Electrical,5.15,5.34,2.83,12.23,Veg,80.69,4.62,Day Scholar,73.41,7.9,Low Risk
+24,IT,5.16,7.47,4.13,11.48,Non-Veg,94.84,5.65,Hosteller,82.51,8.72,Low Risk
+18,CSE,2.27,8.11,1.0,12.24,Non-Veg,74.14,2.76,Hosteller,56.64,7.02,Low Risk
+17,Civil,3.65,8.28,3.41,7.03,Veg,75.23,1.0,Day Scholar,79.03,8.95,Low Risk
+23,CSE,3.41,5.92,4.63,5.64,Veg,82.57,3.81,Day Scholar,64.87,6.6,Medium Risk
+23,Electrical,4.64,7.52,1.07,5.74,Veg,83.14,4.63,Day Scholar,63.54,7.23,Low Risk
+24,IT,4.5,6.78,4.21,12.72,Veg,81.41,3.83,Day Scholar,74.69,8.14,Low Risk
+21,Mechanical,4.23,5.82,1.03,0.0,Veg,77.76,6.78,Hosteller,59.77,6.55,Medium Risk
+19,Civil,7.7,7.38,4.49,4.12,Non-Veg,89.1,8.38,Day Scholar,88.83,9.15,High Risk
+24,IT,3.56,5.76,7.29,2.03,Veg,80.84,3.42,Day Scholar,69.02,7.93,Low Risk
+22,Electrical,3.39,6.05,4.93,14.62,Non-Veg,68.8,3.6,Day Scholar,61.3,7.58,Low Risk
+19,Civil,2.26,4.85,8.32,4.33,Non-Veg,67.36,5.19,Day Scholar,50.79,6.18,Medium Risk
+17,ECE,1.69,5.94,6.57,0.0,Veg,70.63,3.48,Hosteller,40.97,4.45,High Risk
+19,CSE,2.17,6.8,7.7,8.25,Veg,68.34,4.58,Hosteller,50.74,6.51,Medium Risk
+21,Electrical,2.92,8.38,3.47,4.93,Veg,75.4,1.0,Day Scholar,74.33,8.56,Low Risk
+19,ECE,5.97,6.08,3.42,3.88,Veg,83.76,8.35,Day Scholar,60.26,6.65,High Risk
+17,IT,4.06,5.25,5.69,3.3,Non-Veg,78.55,4.89,Hosteller,59.38,7.02,Low Risk
+21,Mechanical,4.29,8.3,1.84,3.08,Veg,82.27,3.49,Hosteller,70.61,7.66,Low Risk
+23,Civil,3.86,5.89,5.94,10.97,Non-Veg,74.52,5.85,Day Scholar,68.87,7.25,Medium Risk
+23,CSE,4.55,4.4,4.35,8.25,Veg,91.17,4.15,Hosteller,64.24,6.89,Medium Risk
+25,Civil,6.1,6.66,7.66,5.89,Veg,87.33,7.35,Hosteller,58.78,7.39,Medium Risk
+19,IT,1.01,6.11,6.36,0.85,Veg,71.94,3.28,Hosteller,50.89,5.61,Medium Risk
+23,Civil,5.83,9.26,7.19,6.05,Veg,88.3,4.66,Hosteller,90.79,10.0,Low Risk
+17,CSE,0.5,7.07,3.49,8.46,Veg,54.66,2.48,Day Scholar,56.34,6.47,Medium Risk
+20,IT,4.04,6.32,7.1,8.67,Veg,74.53,5.68,Hosteller,71.69,7.79,Low Risk
+20,Civil,7.29,5.39,7.89,7.9,Non-Veg,97.32,8.36,Hosteller,64.71,7.04,High Risk
+21,Mechanical,5.02,6.9,4.92,1.83,Non-Veg,90.27,6.36,Day Scholar,61.18,6.85,Medium Risk
+23,Electrical,4.56,8.25,3.52,0.0,Veg,91.65,2.72,Day Scholar,78.13,9.24,Low Risk
+23,IT,7.0,6.87,3.56,17.08,Veg,95.66,7.21,Day Scholar,67.67,7.53,Medium Risk
+20,Electrical,2.95,5.48,7.48,0.0,Veg,68.84,5.29,Hosteller,62.79,5.94,Medium Risk
+23,IT,4.65,7.15,10.37,0.0,Veg,84.65,4.95,Day Scholar,76.89,8.76,Low Risk
+19,Mechanical,4.87,6.44,3.04,7.73,Veg,80.21,6.78,Hosteller,65.48,6.69,Medium Risk
+22,Electrical,3.22,7.04,2.88,0.0,Veg,78.04,5.67,Day Scholar,51.74,5.73,Medium Risk
+18,ECE,3.35,6.07,6.84,2.49,Veg,72.04,3.14,Hosteller,61.76,7.31,Low Risk
+25,CSE,3.18,6.05,3.49,10.07,Veg,65.47,3.81,Day Scholar,53.3,6.09,Medium Risk
+21,ECE,4.13,6.0,7.04,16.93,Veg,87.24,5.45,Day Scholar,68.88,7.66,Low Risk
+22,Civil,4.82,7.63,5.93,9.17,Veg,82.97,3.73,Hosteller,73.95,7.85,Low Risk
+20,Mechanical,4.18,6.06,4.95,4.54,Non-Veg,81.17,5.05,Day Scholar,71.84,6.66,Medium Risk
+23,ECE,5.06,5.95,5.88,6.71,Veg,90.3,6.89,Day Scholar,64.85,7.18,Medium Risk
+25,IT,1.05,5.37,5.76,0.0,Veg,74.63,3.32,Day Scholar,43.38,5.5,Medium Risk
+23,Civil,3.67,7.04,4.64,4.48,Veg,81.96,3.88,Day Scholar,59.91,7.58,Low Risk
+17,Civil,2.46,6.87,1.49,4.48,Non-Veg,72.84,2.74,Day Scholar,63.53,7.29,Low Risk
+17,ECE,4.45,5.96,5.36,7.86,Non-Veg,84.58,5.27,Hosteller,58.93,7.18,Low Risk
+25,ECE,4.43,5.65,8.15,17.88,Non-Veg,80.68,7.19,Hosteller,57.25,6.05,High Risk
+25,Mechanical,3.83,8.75,1.78,0.0,Veg,79.31,3.74,Day Scholar,77.44,8.29,Low Risk
+20,CSE,4.77,4.24,3.07,4.72,Veg,84.55,8.54,Day Scholar,51.46,5.8,High Risk
+25,ECE,5.5,7.09,5.85,0.0,Non-Veg,83.55,4.26,Hosteller,75.33,8.01,Low Risk
+19,ECE,3.91,8.05,5.08,4.18,Veg,79.65,2.6,Hosteller,74.55,8.25,Low Risk
+23,Electrical,2.42,3.0,5.82,2.16,Veg,73.95,6.62,Day Scholar,46.26,4.1,High Risk
+22,IT,1.63,7.45,3.6,0.0,Non-Veg,70.73,1.0,Hosteller,69.4,7.36,Low Risk
+24,Electrical,4.05,6.24,7.32,12.11,Veg,82.46,4.9,Day Scholar,70.25,7.31,Low Risk
+25,Electrical,4.36,6.81,5.09,8.43,Veg,75.12,4.58,Day Scholar,66.26,8.17,Low Risk
+21,Civil,2.55,6.11,6.39,11.46,Veg,78.87,4.52,Day Scholar,49.44,6.14,Medium Risk
+17,CSE,5.09,7.79,5.64,4.02,Veg,91.17,3.8,Day Scholar,84.6,9.13,Low Risk
+19,IT,3.31,6.94,5.35,6.6,Veg,76.08,4.54,Hosteller,57.75,7.28,Low Risk
+24,Mechanical,1.52,6.66,6.25,15.93,Non-Veg,69.85,1.0,Hosteller,59.22,6.93,Medium Risk
+22,Mechanical,5.88,5.42,5.37,6.98,Non-Veg,88.34,6.65,Hosteller,82.67,8.53,Medium Risk
+24,ECE,5.72,8.76,2.62,11.52,Veg,92.34,3.58,Day Scholar,79.17,9.16,Low Risk
+25,ECE,0.98,6.51,7.17,3.54,Non-Veg,60.81,1.51,Hosteller,49.53,6.18,Medium Risk
+20,Mechanical,3.16,9.25,6.64,11.01,Veg,82.49,1.0,Day Scholar,79.88,8.51,Low Risk
+17,ECE,3.1,8.81,1.0,3.93,Veg,79.0,1.74,Day Scholar,80.82,7.83,Low Risk
+17,CSE,6.46,4.37,3.69,0.0,Non-Veg,95.92,10.0,Hosteller,58.38,6.94,High Risk
+20,Electrical,3.85,5.71,7.08,6.96,Non-Veg,78.73,5.79,Day Scholar,72.52,7.38,Medium Risk
+23,ECE,1.76,5.26,1.35,4.37,Non-Veg,61.72,3.29,Day Scholar,50.36,6.11,Medium Risk
+18,Civil,5.32,6.44,6.89,0.0,Non-Veg,91.04,4.8,Day Scholar,72.23,8.09,Low Risk
+19,ECE,2.15,6.72,4.72,8.07,Non-Veg,63.87,1.0,Hosteller,69.28,7.74,Low Risk
+17,IT,3.61,6.78,7.68,2.0,Non-Veg,82.53,2.19,Day Scholar,72.21,8.46,Low Risk
+21,CSE,2.85,7.76,5.0,21.0,Veg,70.37,1.95,Hosteller,71.42,7.45,Low Risk
+17,IT,3.16,8.29,3.56,0.0,Non-Veg,67.86,3.97,Day Scholar,59.33,7.45,Low Risk
+24,IT,5.41,7.66,5.62,0.21,Non-Veg,87.03,2.03,Hosteller,87.09,9.57,Low Risk
+17,Civil,6.28,5.83,4.94,11.87,Non-Veg,97.32,8.16,Day Scholar,74.25,7.65,High Risk
+17,CSE,2.09,5.56,3.38,6.26,Veg,65.61,2.85,Hosteller,54.18,5.58,Medium Risk
+18,CSE,4.94,6.5,9.44,11.76,Veg,92.69,5.1,Hosteller,76.48,8.23,Low Risk
+18,CSE,2.9,7.01,3.06,9.13,Veg,77.79,1.95,Day Scholar,78.29,7.82,Low Risk
+22,CSE,2.95,6.28,1.0,3.74,Veg,75.52,2.3,Day Scholar,67.59,7.63,Low Risk
+23,CSE,4.74,4.89,8.16,0.0,Non-Veg,81.5,6.98,Day Scholar,47.54,6.13,Medium Risk
+21,Civil,2.46,7.32,3.83,13.0,Veg,70.46,2.4,Day Scholar,66.32,7.29,Low Risk
+17,ECE,4.71,6.03,4.41,0.0,Veg,85.68,6.35,Hosteller,67.3,7.55,Medium Risk
+17,IT,5.1,5.99,4.28,10.13,Non-Veg,89.71,4.42,Day Scholar,56.83,7.49,Low Risk
+19,CSE,3.35,6.43,3.86,12.15,Veg,73.79,4.79,Hosteller,53.33,6.55,Medium Risk
+18,ECE,5.99,6.21,3.47,6.29,Veg,85.92,7.67,Day Scholar,65.43,7.97,Medium Risk
+21,ECE,2.09,6.06,3.01,5.3,Veg,69.38,3.46,Hosteller,50.8,6.1,Medium Risk
+22,IT,6.02,4.96,5.13,1.49,Non-Veg,97.06,7.63,Hosteller,63.13,7.21,Medium Risk
+23,Civil,1.08,6.37,4.2,9.59,Veg,59.34,2.03,Hosteller,50.62,5.8,Medium Risk
+20,Mechanical,8.05,7.34,6.46,0.0,Non-Veg,100.0,7.55,Day Scholar,85.61,9.94,Medium Risk
+23,Mechanical,3.39,6.82,5.97,11.01,Veg,77.16,4.54,Day Scholar,59.39,7.3,Low Risk
+24,ECE,2.26,7.64,3.14,7.67,Veg,63.02,1.25,Hosteller,68.29,7.38,Low Risk
+17,Electrical,3.65,5.63,5.22,5.75,Veg,75.95,5.13,Hosteller,59.57,6.55,Medium Risk
+22,Electrical,2.43,4.97,4.16,8.36,Non-Veg,75.2,2.73,Hosteller,54.91,6.02,Medium Risk
+24,IT,4.58,6.2,3.02,0.0,Veg,91.91,5.68,Hosteller,73.96,7.23,Medium Risk
+21,Mechanical,6.05,5.76,6.38,0.0,Veg,83.62,6.54,Hosteller,74.2,8.15,Medium Risk
+20,ECE,2.51,5.89,4.76,9.62,Veg,58.45,4.13,Day Scholar,52.51,6.04,Medium Risk
+18,Civil,4.87,6.75,4.18,14.37,Non-Veg,77.8,5.9,Hosteller,67.46,7.55,Low Risk
+22,Mechanical,1.7,5.9,3.29,0.0,Veg,74.16,2.19,Day Scholar,57.71,6.36,Medium Risk
+22,ECE,5.55,5.0,2.94,1.11,Non-Veg,78.78,7.58,Day Scholar,72.79,7.75,Medium Risk
+17,ECE,4.62,5.83,8.98,11.21,Non-Veg,90.61,5.97,Day Scholar,61.26,6.83,Medium Risk
+25,CSE,5.61,6.91,5.67,9.01,Veg,94.15,6.07,Hosteller,65.13,8.32,Medium Risk
+22,Civil,3.82,7.31,2.82,21.0,Veg,80.04,4.3,Hosteller,71.24,8.16,Low Risk
+19,CSE,3.35,7.29,5.58,13.02,Veg,73.6,3.71,Hosteller,64.49,7.16,Low Risk
+20,IT,5.22,7.01,7.12,11.68,Veg,86.4,4.83,Hosteller,76.65,7.79,Low Risk
+20,CSE,2.04,6.3,5.34,2.72,Veg,73.25,4.34,Day Scholar,55.85,6.64,Medium Risk
+19,CSE,1.39,6.99,7.75,9.94,Veg,69.22,2.15,Day Scholar,43.06,5.69,Medium Risk
+19,Mechanical,3.99,6.45,1.91,15.37,Veg,88.66,5.95,Day Scholar,64.37,7.12,Medium Risk
+19,Electrical,3.42,6.64,1.02,6.08,Veg,75.78,4.13,Hosteller,61.49,6.35,Medium Risk
+20,ECE,4.83,5.37,5.52,6.34,Veg,77.65,6.86,Hosteller,65.76,7.53,Medium Risk
+23,Civil,5.64,6.55,5.55,7.79,Veg,80.8,5.97,Hosteller,81.9,7.78,Low Risk
+20,CSE,4.8,6.95,1.0,3.28,Non-Veg,75.61,4.4,Hosteller,81.88,7.9,Low Risk
+25,Civil,5.52,6.91,3.75,8.51,Non-Veg,88.57,6.58,Hosteller,65.84,7.36,Medium Risk
+17,Electrical,4.48,4.95,2.98,8.37,Non-Veg,81.24,6.79,Hosteller,53.59,5.85,Medium Risk
+24,Electrical,4.74,6.62,2.22,15.29,Veg,83.87,4.99,Day Scholar,81.57,8.3,Low Risk
+23,CSE,3.83,4.77,2.98,5.94,Veg,76.44,5.04,Day Scholar,59.42,6.65,Medium Risk
+18,IT,4.7,6.71,6.19,10.78,Veg,77.94,6.54,Hosteller,75.19,8.8,Medium Risk
+24,CSE,4.25,5.66,2.97,6.11,Veg,84.32,5.7,Day Scholar,63.53,6.57,Medium Risk
+17,Mechanical,4.49,8.55,3.03,10.58,Veg,70.12,1.71,Day Scholar,79.4,8.56,Low Risk
+25,ECE,3.75,6.64,1.76,5.6,Non-Veg,74.74,4.19,Day Scholar,57.82,6.87,Medium Risk
+25,IT,5.21,7.46,7.54,10.21,Veg,90.0,4.55,Day Scholar,74.9,8.17,Low Risk
+18,CSE,2.93,9.03,5.87,11.08,Veg,70.17,1.0,Hosteller,80.69,9.05,Low Risk
+23,Civil,3.97,5.52,1.0,1.03,Non-Veg,81.82,6.03,Day Scholar,62.73,7.18,Medium Risk
+19,IT,5.97,7.02,3.04,13.17,Veg,85.84,5.75,Hosteller,63.65,7.51,Low Risk
+23,IT,2.58,5.08,6.06,6.07,Veg,70.61,4.19,Hosteller,62.75,6.91,Medium Risk
+25,CSE,0.76,6.91,7.56,4.37,Veg,66.66,2.21,Day Scholar,57.32,6.52,Medium Risk
+20,IT,4.55,8.62,6.68,3.02,Veg,76.36,1.19,Hosteller,85.46,9.34,Low Risk
+17,Civil,3.61,5.75,4.29,8.67,Non-Veg,81.8,4.82,Day Scholar,62.88,6.53,Medium Risk
+18,Electrical,5.52,5.44,1.14,6.97,Veg,87.81,8.01,Hosteller,61.37,6.69,High Risk
+17,IT,3.8,6.39,6.74,9.08,Veg,85.3,5.04,Hosteller,65.3,7.12,Low Risk
+21,Electrical,3.09,8.95,4.41,9.19,Non-Veg,76.51,2.16,Day Scholar,66.8,7.72,Low Risk
+21,Civil,3.89,7.43,5.14,10.41,Non-Veg,74.08,5.48,Day Scholar,76.33,7.83,Low Risk
+23,CSE,5.64,5.41,4.65,21.0,Non-Veg,96.84,8.92,Hosteller,54.18,6.49,High Risk
+25,ECE,4.86,8.25,2.29,7.22,Non-Veg,79.39,2.46,Day Scholar,62.64,7.86,Low Risk
+25,IT,0.5,4.51,5.73,2.89,Veg,61.36,1.38,Hosteller,40.9,5.14,High Risk
+19,ECE,4.28,9.06,5.45,0.0,Veg,86.18,2.54,Day Scholar,77.16,8.0,Low Risk
+19,Civil,4.35,7.53,4.15,0.31,Veg,72.37,2.47,Hosteller,76.5,8.24,Low Risk
+19,IT,3.97,8.62,5.94,13.92,Veg,87.06,1.0,Hosteller,86.79,8.91,Low Risk
+20,Electrical,3.08,4.52,2.25,11.03,Non-Veg,69.66,5.88,Hosteller,47.55,6.02,Medium Risk
+24,Mechanical,5.79,6.7,4.46,0.0,Non-Veg,86.68,6.66,Hosteller,84.05,8.05,Medium Risk
+22,ECE,5.87,6.34,5.05,20.8,Veg,90.77,8.24,Hosteller,63.29,7.19,High Risk
+24,IT,0.7,5.29,1.53,8.83,Veg,63.27,3.17,Day Scholar,39.94,5.42,High Risk
+17,ECE,2.8,4.94,4.89,9.58,Veg,77.96,6.78,Hosteller,69.6,6.51,Medium Risk
+24,IT,3.78,7.11,6.47,19.57,Non-Veg,70.91,4.03,Day Scholar,66.22,8.09,Low Risk
+20,CSE,5.42,7.22,4.39,16.74,Veg,90.75,4.07,Day Scholar,76.14,8.68,Low Risk
+17,Electrical,4.05,8.06,4.93,11.37,Non-Veg,84.3,3.81,Hosteller,74.19,8.36,Low Risk
+24,ECE,2.97,5.9,6.12,11.64,Non-Veg,80.02,5.41,Hosteller,50.61,5.38,High Risk
+20,Mechanical,5.06,6.33,4.22,12.17,Non-Veg,77.37,6.13,Day Scholar,59.55,7.06,Medium Risk
+22,Mechanical,3.68,4.84,4.4,5.65,Non-Veg,71.07,7.29,Hosteller,57.16,5.77,High Risk
+24,Civil,3.82,8.35,2.65,8.61,Non-Veg,77.41,2.35,Hosteller,74.45,7.85,Low Risk
+20,IT,3.96,6.58,4.97,10.22,Veg,72.99,4.92,Day Scholar,58.08,6.44,Medium Risk
+19,ECE,4.86,7.37,4.33,6.29,Veg,75.29,4.32,Day Scholar,81.36,8.3,Low Risk
+25,Civil,3.54,7.41,6.0,1.59,Veg,75.76,5.51,Day Scholar,68.47,7.65,Low Risk
+19,ECE,5.03,8.25,6.13,5.51,Veg,86.32,4.62,Day Scholar,73.1,8.28,Low Risk
+25,IT,3.89,5.5,6.58,1.47,Non-Veg,93.45,4.27,Day Scholar,77.29,7.48,Low Risk
+18,Mechanical,2.4,7.34,3.98,7.36,Veg,74.74,3.91,Day Scholar,61.88,6.71,Medium Risk
+18,CSE,3.94,6.47,1.0,0.0,Non-Veg,88.49,3.74,Hosteller,60.93,7.32,Low Risk
+18,Mechanical,2.48,9.03,6.48,8.91,Veg,72.17,1.0,Day Scholar,71.81,8.45,Low Risk
+22,Civil,4.06,5.5,5.86,0.0,Veg,83.11,6.03,Day Scholar,54.21,6.01,Medium Risk
+19,Electrical,5.24,7.91,3.73,4.74,Non-Veg,85.49,4.89,Hosteller,53.97,7.33,Low Risk
+25,CSE,2.39,6.92,6.11,9.82,Veg,85.36,2.95,Hosteller,52.73,6.21,Medium Risk
+20,Civil,4.55,6.86,2.1,11.43,Veg,79.3,3.56,Hosteller,75.63,8.46,Low Risk
+17,IT,2.76,6.56,7.06,10.77,Veg,71.03,3.68,Hosteller,61.33,6.91,Medium Risk
+20,CSE,4.3,8.12,4.33,8.79,Non-Veg,85.5,4.29,Hosteller,66.67,8.11,Low Risk
+17,Civil,5.29,6.82,3.34,0.73,Veg,87.49,6.55,Hosteller,73.47,8.41,Medium Risk
+21,IT,0.81,4.67,3.76,12.49,Veg,61.91,1.83,Day Scholar,53.47,5.29,High Risk
+20,Mechanical,2.33,7.96,4.54,0.86,Veg,76.44,1.0,Hosteller,79.49,8.29,Low Risk
+24,Electrical,3.45,7.74,4.98,13.13,Non-Veg,77.03,1.66,Hosteller,71.77,7.92,Low Risk
+24,IT,4.47,7.2,5.1,10.52,Non-Veg,82.12,4.61,Hosteller,66.87,7.47,Low Risk
+23,ECE,3.75,5.15,4.14,14.61,Veg,79.91,4.05,Hosteller,63.13,7.1,Low Risk
+19,IT,3.93,5.33,5.4,7.14,Veg,70.99,4.48,Day Scholar,65.99,7.2,Low Risk
+17,IT,7.06,4.25,5.02,2.41,Non-Veg,87.36,9.15,Hosteller,65.65,7.24,High Risk
+17,Electrical,2.18,7.05,3.7,0.0,Veg,76.34,1.0,Hosteller,71.14,7.72,Low Risk
+19,ECE,5.7,4.88,3.4,0.38,Veg,85.13,7.79,Day Scholar,66.43,7.1,Medium Risk
+22,Civil,3.48,4.44,6.22,0.0,Veg,76.71,3.93,Day Scholar,54.19,6.69,Medium Risk
+23,Civil,4.82,8.03,6.05,12.28,Non-Veg,92.18,4.28,Day Scholar,70.53,8.01,Low Risk
+22,IT,7.19,7.42,5.11,12.98,Veg,95.53,6.37,Hosteller,82.05,9.01,Medium Risk
+22,ECE,5.03,6.1,6.85,10.1,Veg,84.11,5.31,Day Scholar,57.89,6.97,Medium Risk
+22,ECE,4.56,6.34,1.08,6.81,Non-Veg,87.27,4.76,Day Scholar,59.97,7.04,Low Risk
+19,Electrical,6.4,3.61,3.87,18.54,Non-Veg,89.0,9.73,Day Scholar,57.05,6.46,High Risk
+22,Mechanical,5.69,7.6,2.69,6.45,Veg,94.45,5.68,Hosteller,75.66,8.5,Low Risk
+24,Civil,2.8,5.67,9.51,8.24,Veg,78.38,5.45,Hosteller,66.34,7.25,Low Risk
+18,Electrical,4.44,6.9,6.43,6.73,Non-Veg,91.36,5.56,Day Scholar,61.43,7.3,Medium Risk
+21,CSE,1.42,3.51,4.84,5.11,Non-Veg,63.67,7.14,Hosteller,40.84,4.0,High Risk
+17,Civil,3.19,7.67,6.57,10.53,Non-Veg,82.78,3.19,Hosteller,62.98,7.1,Low Risk
+17,Electrical,4.47,5.6,7.23,3.45,Veg,85.13,6.01,Hosteller,66.67,7.33,Medium Risk
+21,Civil,3.1,4.85,7.21,3.08,Veg,68.86,4.79,Hosteller,51.3,5.91,Medium Risk
+19,Mechanical,4.41,6.09,6.84,10.82,Non-Veg,69.07,4.89,Hosteller,61.87,6.74,Medium Risk
+20,CSE,3.98,5.78,4.47,4.21,Non-Veg,75.91,5.73,Day Scholar,72.72,7.15,Medium Risk
+19,Mechanical,4.8,7.79,4.0,7.75,Veg,85.48,3.02,Day Scholar,77.02,8.77,Low Risk
+17,CSE,3.36,6.0,3.08,5.09,Veg,79.01,4.6,Day Scholar,52.19,6.1,Medium Risk
+17,IT,2.59,8.14,6.0,6.94,Non-Veg,72.65,1.44,Day Scholar,61.57,7.3,Low Risk
+21,Electrical,6.22,6.9,4.68,3.23,Veg,90.84,5.59,Hosteller,81.19,9.05,Low Risk
+22,CSE,3.26,7.57,4.16,3.41,Veg,75.65,1.63,Day Scholar,75.29,8.41,Low Risk
+19,Mechanical,4.99,6.5,4.06,2.41,Veg,90.11,8.02,Day Scholar,56.86,6.29,High Risk
+25,Civil,6.15,8.03,7.9,11.72,Veg,83.58,3.73,Hosteller,75.99,8.18,Low Risk
+21,CSE,4.24,5.12,6.91,7.96,Veg,82.56,6.06,Hosteller,63.68,6.89,Medium Risk
+24,Electrical,2.72,6.64,8.66,12.14,Non-Veg,69.46,4.3,Hosteller,58.55,6.52,Medium Risk
+17,CSE,3.73,6.02,6.06,12.74,Veg,74.13,5.24,Hosteller,72.44,6.96,Medium Risk
+21,ECE,5.53,8.18,5.11,4.42,Veg,93.51,3.88,Day Scholar,85.4,9.11,Low Risk
+19,Civil,4.31,8.3,4.95,11.94,Veg,76.63,1.82,Hosteller,68.55,8.22,Low Risk
+17,Electrical,2.19,6.5,2.96,6.92,Veg,70.26,2.82,Hosteller,51.25,6.55,Medium Risk
+20,Electrical,4.89,4.95,2.48,6.11,Veg,94.27,4.31,Hosteller,61.19,7.19,Low Risk
+21,IT,5.15,7.01,6.01,14.01,Veg,89.96,5.31,Hosteller,67.99,7.47,Low Risk
+23,Mechanical,3.47,4.5,3.13,10.1,Non-Veg,75.06,6.0,Hosteller,54.27,6.46,Medium Risk
+17,IT,4.92,8.45,5.42,5.03,Veg,82.71,4.53,Hosteller,72.02,8.35,Low Risk
+19,Electrical,4.37,5.93,7.23,9.74,Veg,75.7,4.29,Day Scholar,60.77,6.74,Medium Risk
+18,Civil,3.7,6.46,3.67,0.0,Veg,85.02,3.92,Day Scholar,67.61,7.7,Low Risk
+25,CSE,2.06,5.68,9.02,8.38,Veg,75.36,3.81,Day Scholar,44.24,6.05,Medium Risk
+22,CSE,5.62,5.42,3.02,0.0,Non-Veg,91.52,7.4,Hosteller,73.95,7.62,Medium Risk
+19,Civil,5.14,7.38,6.98,1.49,Veg,89.68,3.41,Hosteller,76.49,8.03,Low Risk
+24,Electrical,4.88,6.31,5.85,10.27,Non-Veg,80.51,4.92,Day Scholar,58.82,7.25,Low Risk
+24,CSE,6.32,6.55,7.39,0.0,Veg,83.84,8.17,Day Scholar,70.27,7.78,High Risk
+18,CSE,5.42,5.3,2.77,17.09,Non-Veg,89.89,7.38,Day Scholar,53.34,6.55,Medium Risk
+22,CSE,5.03,7.53,9.61,11.67,Veg,89.59,2.84,Day Scholar,73.77,8.53,Low Risk
+23,Mechanical,0.68,7.65,4.64,0.0,Non-Veg,71.44,1.0,Hosteller,56.73,6.03,Medium Risk
+18,Mechanical,5.8,6.25,6.35,20.43,Veg,87.97,4.95,Day Scholar,76.48,8.05,Low Risk
+18,ECE,4.12,8.02,7.89,21.0,Veg,78.89,2.8,Hosteller,77.95,8.22,Low Risk
+17,IT,4.47,6.38,3.79,5.99,Non-Veg,81.15,5.66,Hosteller,66.63,7.27,Medium Risk
+24,Civil,4.48,7.44,6.65,1.81,Non-Veg,85.75,5.26,Hosteller,73.11,7.42,Low Risk
+17,Civil,5.16,4.55,3.46,16.44,Veg,84.39,5.27,Day Scholar,65.28,7.59,Low Risk
+25,Civil,5.68,6.92,7.79,5.07,Veg,88.16,6.47,Day Scholar,69.4,7.93,Medium Risk
+22,ECE,4.95,6.17,3.48,7.9,Veg,88.91,6.64,Day Scholar,51.55,7.17,Medium Risk
+23,Mechanical,4.71,6.69,5.08,13.82,Non-Veg,80.44,4.47,Hosteller,67.14,7.51,Low Risk
+23,Electrical,4.35,6.63,5.61,6.14,Veg,88.69,4.81,Hosteller,75.15,8.03,Low Risk
+19,Electrical,0.5,6.65,6.57,5.65,Veg,65.67,1.0,Day Scholar,60.14,6.52,Medium Risk
+18,ECE,3.57,7.24,8.94,0.0,Non-Veg,68.55,1.0,Hosteller,66.82,7.77,Low Risk
+25,Electrical,2.59,5.82,4.1,3.47,Non-Veg,70.36,4.87,Day Scholar,63.43,6.58,Medium Risk
+24,Civil,5.82,7.18,7.28,5.54,Non-Veg,78.96,5.09,Hosteller,79.15,8.84,Low Risk
+23,IT,4.93,7.98,8.94,0.06,Non-Veg,83.66,3.6,Hosteller,79.71,8.43,Low Risk
+25,CSE,3.31,4.81,5.33,0.57,Non-Veg,74.07,5.74,Hosteller,58.41,6.22,Medium Risk
+20,Mechanical,3.46,5.56,3.9,7.19,Veg,81.49,4.53,Hosteller,59.33,5.8,Medium Risk
+20,Mechanical,3.41,5.61,1.54,0.0,Veg,72.64,4.34,Hosteller,59.71,6.45,Medium Risk
+17,ECE,3.38,5.19,8.77,2.08,Non-Veg,78.85,5.59,Hosteller,64.37,6.81,Medium Risk
+24,Mechanical,1.83,5.93,4.51,17.89,Veg,72.01,1.41,Hosteller,57.87,6.47,Medium Risk
+19,Civil,1.51,7.74,3.0,5.07,Non-Veg,68.83,1.93,Day Scholar,58.64,6.79,Medium Risk
+23,Electrical,4.04,8.24,2.28,4.36,Veg,85.92,2.58,Hosteller,73.3,7.87,Low Risk
+18,Civil,5.61,6.63,2.99,5.04,Veg,98.41,4.98,Hosteller,82.35,8.31,Low Risk
+18,ECE,3.19,6.11,6.84,5.13,Non-Veg,76.53,2.94,Day Scholar,63.99,7.45,Low Risk
+23,Civil,4.46,7.46,7.12,10.22,Non-Veg,84.3,4.03,Day Scholar,72.25,8.17,Low Risk
+22,Electrical,5.1,3.66,6.3,9.83,Veg,81.11,8.13,Day Scholar,52.19,5.78,High Risk
+19,IT,2.51,5.23,5.26,4.81,Non-Veg,67.45,2.73,Day Scholar,64.52,6.79,Medium Risk
+25,ECE,3.97,3.71,2.51,5.8,Non-Veg,85.02,6.65,Hosteller,63.98,6.92,Medium Risk
+22,IT,3.0,5.22,3.54,14.35,Veg,79.51,3.97,Hosteller,67.81,7.03,Low Risk
+22,CSE,6.41,5.58,2.79,0.0,Veg,86.9,9.09,Day Scholar,75.4,7.28,High Risk
+17,IT,6.34,8.27,6.15,6.68,Non-Veg,85.18,5.2,Hosteller,68.22,7.94,Low Risk
+20,CSE,2.51,3.19,2.87,7.76,Non-Veg,69.31,7.89,Day Scholar,44.91,4.65,High Risk
+22,CSE,4.58,6.0,3.57,2.65,Veg,82.19,4.87,Hosteller,76.39,8.31,Low Risk
+22,IT,5.6,7.24,4.63,6.36,Non-Veg,85.96,5.07,Hosteller,80.63,8.95,Low Risk
+21,ECE,5.27,6.99,1.66,1.89,Non-Veg,87.17,5.67,Hosteller,75.87,8.09,Low Risk
+17,Electrical,4.12,8.25,5.09,10.57,Veg,85.2,3.47,Hosteller,68.17,7.72,Low Risk
+24,Civil,5.96,6.69,4.79,0.0,Non-Veg,92.11,6.99,Hosteller,72.22,7.84,Medium Risk
+21,Civil,2.64,6.95,7.37,12.95,Veg,75.9,1.81,Day Scholar,63.86,7.82,Low Risk
+21,Electrical,3.55,4.29,3.36,6.59,Veg,65.47,5.39,Hosteller,58.85,6.84,Medium Risk
+23,CSE,2.68,5.31,2.4,4.49,Non-Veg,65.35,4.01,Hosteller,64.86,6.63,Medium Risk
+20,CSE,5.17,4.36,4.25,1.37,Non-Veg,81.89,9.29,Hosteller,64.59,6.62,High Risk
+22,ECE,3.13,7.19,2.8,12.77,Non-Veg,72.47,1.94,Hosteller,70.62,7.7,Low Risk
+20,Mechanical,3.74,6.92,5.08,3.35,Veg,82.91,3.3,Hosteller,66.03,7.59,Low Risk
+19,IT,4.93,6.88,1.28,0.46,Veg,80.24,5.78,Day Scholar,70.44,7.37,Medium Risk
+23,CSE,5.05,5.44,3.79,12.89,Veg,88.57,7.28,Hosteller,70.48,7.14,Medium Risk
+24,Civil,2.64,5.33,3.14,1.94,Veg,69.27,4.86,Day Scholar,58.16,6.69,Medium Risk
+20,ECE,5.58,6.75,6.14,6.47,Veg,81.92,5.91,Hosteller,67.26,8.28,Low Risk
+18,IT,4.68,5.7,3.38,11.59,Veg,77.65,4.92,Hosteller,64.02,6.86,Medium Risk
+19,ECE,2.38,5.28,1.53,7.88,Veg,83.18,3.41,Day Scholar,57.45,5.88,Medium Risk
+17,IT,2.01,5.89,4.6,16.69,Non-Veg,66.01,4.24,Hosteller,62.89,6.66,Medium Risk
+24,IT,3.98,5.71,5.64,2.32,Veg,83.34,6.04,Hosteller,69.05,6.8,Medium Risk
+19,Electrical,5.28,5.46,4.46,5.82,Veg,78.58,5.48,Day Scholar,77.33,7.72,Low Risk
+23,CSE,5.31,5.03,3.78,6.25,Veg,93.66,8.15,Hosteller,60.07,6.84,High Risk
+21,ECE,4.53,7.04,3.66,10.48,Veg,84.42,5.8,Day Scholar,75.36,8.26,Low Risk
+21,ECE,4.07,8.37,5.23,14.22,Veg,81.73,2.76,Day Scholar,70.11,8.07,Low Risk
+23,Electrical,4.77,6.45,3.22,7.41,Veg,85.91,5.74,Day Scholar,66.78,7.99,Low Risk
+25,Civil,2.72,6.77,4.34,6.23,Non-Veg,76.21,3.96,Hosteller,57.39,6.91,Medium Risk
+21,Civil,6.53,7.14,6.5,0.0,Veg,96.7,5.69,Hosteller,74.14,7.84,Low Risk
+17,CSE,6.51,6.94,2.4,7.63,Non-Veg,89.56,8.9,Day Scholar,66.42,7.21,High Risk
+17,CSE,4.64,5.48,4.91,3.36,Non-Veg,79.93,7.38,Hosteller,61.73,6.36,High Risk
+18,Mechanical,4.3,8.56,1.42,10.46,Non-Veg,81.73,3.26,Day Scholar,92.4,8.86,Low Risk
+22,Electrical,3.38,5.59,5.46,4.71,Veg,80.34,4.76,Hosteller,68.51,7.33,Low Risk
+25,Civil,4.79,7.28,3.04,5.65,Non-Veg,83.63,5.01,Day Scholar,68.11,8.01,Low Risk
+24,IT,2.96,7.14,7.04,0.0,Veg,78.68,1.27,Hosteller,73.25,7.56,Low Risk
+21,ECE,0.66,4.15,2.05,0.0,Veg,66.41,5.6,Day Scholar,35.0,4.09,High Risk
+17,CSE,0.5,6.07,5.88,17.42,Non-Veg,61.42,2.56,Hosteller,65.58,6.31,Medium Risk
+23,ECE,2.8,6.57,7.44,7.73,Non-Veg,65.27,4.7,Day Scholar,43.63,5.94,Medium Risk
+21,ECE,4.23,6.66,2.94,9.26,Veg,78.66,4.61,Hosteller,64.22,7.44,Low Risk
+22,Mechanical,4.5,6.86,3.28,1.89,Veg,91.2,4.28,Day Scholar,83.85,8.97,Low Risk
+23,Civil,3.27,7.41,3.11,11.9,Veg,78.05,2.19,Hosteller,73.64,7.53,Low Risk
+19,CSE,4.21,6.49,4.03,10.89,Veg,77.87,5.54,Hosteller,55.38,6.53,Medium Risk
+19,ECE,3.59,6.93,6.03,2.51,Veg,79.2,3.15,Day Scholar,56.1,6.71,Medium Risk
+21,CSE,2.5,6.45,3.86,1.07,Non-Veg,75.89,2.87,Hosteller,73.93,8.13,Low Risk
+22,IT,3.92,5.28,2.76,2.9,Non-Veg,76.4,6.19,Hosteller,70.08,6.73,Medium Risk
+25,Mechanical,5.22,6.54,1.0,6.84,Non-Veg,92.27,5.02,Hosteller,59.79,7.5,Low Risk
+21,IT,2.57,7.4,8.2,7.94,Veg,75.32,3.21,Hosteller,61.09,6.96,Medium Risk
+17,CSE,2.57,7.83,8.36,7.22,Non-Veg,67.35,1.72,Day Scholar,66.64,7.26,Low Risk
+20,CSE,2.4,7.14,6.12,14.27,Non-Veg,76.26,1.0,Hosteller,55.73,6.63,Medium Risk
+21,Civil,1.1,8.1,3.38,3.0,Non-Veg,63.43,1.0,Hosteller,62.35,7.37,Low Risk
+21,ECE,3.28,7.0,6.5,0.91,Veg,75.5,4.59,Day Scholar,61.92,7.01,Low Risk
+23,ECE,5.07,7.54,6.9,7.0,Veg,80.28,3.6,Hosteller,80.87,8.82,Low Risk
+20,IT,4.26,7.62,4.49,0.0,Veg,84.46,4.53,Day Scholar,68.56,7.73,Low Risk
+17,Mechanical,3.75,6.23,5.08,10.9,Veg,77.99,4.64,Hosteller,71.85,7.17,Low Risk
+21,Electrical,4.19,7.37,7.46,7.55,Non-Veg,84.34,3.65,Day Scholar,63.96,6.78,Medium Risk
+23,ECE,3.27,5.37,1.72,5.11,Non-Veg,73.58,7.41,Hosteller,58.31,6.27,High Risk
+22,Civil,1.08,6.92,7.0,4.8,Veg,62.06,1.0,Day Scholar,60.82,6.19,Medium Risk
+21,IT,5.18,7.19,4.38,12.1,Veg,82.15,4.24,Day Scholar,72.7,7.85,Low Risk
+20,IT,5.61,7.76,2.77,11.92,Veg,90.01,4.82,Day Scholar,71.64,8.21,Low Risk
+18,Electrical,2.91,7.48,2.94,5.62,Veg,71.14,4.84,Hosteller,50.53,5.76,Medium Risk
+20,Civil,3.77,7.78,3.27,10.31,Veg,77.85,2.98,Day Scholar,63.07,7.64,Low Risk
+19,Mechanical,3.64,6.38,2.58,11.83,Non-Veg,75.63,4.54,Hosteller,71.0,6.78,Medium Risk
+17,Civil,4.53,6.09,8.54,8.88,Veg,84.84,5.11,Day Scholar,69.57,7.21,Low Risk
+24,Mechanical,6.53,6.17,5.98,5.85,Non-Veg,84.0,7.72,Day Scholar,50.09,6.99,Medium Risk
+21,Civil,5.74,6.82,7.13,9.13,Veg,89.93,5.65,Day Scholar,83.86,8.58,Low Risk
+20,Civil,3.43,4.33,6.12,1.18,Veg,85.83,6.8,Hosteller,47.44,6.09,Medium Risk
+24,CSE,4.81,8.1,5.12,7.4,Veg,90.25,4.49,Hosteller,72.16,7.73,Low Risk
+23,IT,5.88,6.55,5.15,5.69,Non-Veg,86.32,6.09,Day Scholar,58.46,7.72,Medium Risk
+18,Civil,4.61,6.0,4.2,4.82,Veg,85.54,4.49,Day Scholar,70.23,8.04,Low Risk
+17,Electrical,3.99,3.46,4.37,0.0,Non-Veg,81.47,7.62,Day Scholar,57.76,5.67,High Risk
+20,Civil,4.67,6.46,2.18,1.25,Veg,90.69,6.62,Day Scholar,65.37,6.49,Medium Risk
+24,ECE,2.95,6.26,7.16,4.28,Non-Veg,62.17,2.86,Day Scholar,65.62,7.12,Low Risk
+18,IT,3.16,5.42,1.37,12.01,Non-Veg,81.38,5.07,Day Scholar,57.19,5.92,Medium Risk
+19,ECE,2.4,5.69,2.88,8.6,Veg,70.68,2.51,Day Scholar,51.21,6.48,Medium Risk
+17,IT,4.46,6.47,9.02,12.26,Non-Veg,78.59,3.95,Day Scholar,72.52,7.76,Low Risk
+17,ECE,3.8,5.79,5.27,13.96,Veg,75.16,6.31,Hosteller,67.93,7.08,Medium Risk
+19,Civil,2.77,7.19,5.36,8.84,Non-Veg,67.33,3.27,Day Scholar,85.99,8.13,Low Risk
+21,Civil,3.75,5.6,6.27,7.79,Veg,75.7,5.5,Hosteller,63.52,7.4,Medium Risk
+19,CSE,4.7,6.69,1.92,1.55,Veg,78.13,2.7,Day Scholar,74.92,8.31,Low Risk
+17,Electrical,6.87,7.92,2.21,18.13,Non-Veg,95.26,5.4,Hosteller,90.39,10.0,Low Risk
+17,ECE,5.52,6.46,4.11,0.0,Non-Veg,90.54,6.67,Hosteller,74.42,7.88,Medium Risk
+24,Mechanical,0.57,6.93,3.19,7.66,Veg,61.59,1.0,Day Scholar,57.86,5.94,Medium Risk
+18,CSE,4.36,6.85,4.85,11.66,Non-Veg,89.29,4.15,Hosteller,75.39,7.79,Low Risk
+19,ECE,6.14,6.51,5.97,11.74,Veg,87.98,7.4,Hosteller,71.9,7.44,Medium Risk
+18,ECE,1.99,6.42,7.78,0.53,Veg,68.42,1.06,Day Scholar,51.43,6.54,Medium Risk
+19,CSE,4.83,5.81,6.62,4.65,Non-Veg,81.77,4.33,Day Scholar,51.48,7.17,Low Risk
+23,Civil,3.65,6.68,3.01,2.53,Veg,81.22,2.47,Day Scholar,66.81,7.71,Low Risk
+17,ECE,5.73,6.16,4.25,0.0,Veg,92.13,6.9,Hosteller,71.59,7.97,Medium Risk
+24,Civil,4.61,8.36,3.71,7.73,Non-Veg,85.51,2.69,Day Scholar,79.38,9.16,Low Risk
+18,CSE,2.67,7.47,2.97,2.98,Veg,72.75,3.08,Hosteller,56.68,6.55,Medium Risk
+19,Civil,3.7,4.76,2.51,15.43,Non-Veg,71.79,6.06,Day Scholar,54.12,6.2,Medium Risk
+25,IT,3.79,4.82,8.33,10.44,Veg,77.34,7.84,Day Scholar,58.03,6.13,High Risk
+23,Mechanical,3.82,6.34,5.02,7.23,Veg,86.47,3.23,Hosteller,63.8,7.66,Low Risk
+20,ECE,5.68,6.03,4.55,4.35,Veg,93.46,6.99,Hosteller,70.39,7.86,Medium Risk
+21,Electrical,2.74,6.28,5.97,7.64,Non-Veg,75.15,2.66,Hosteller,61.59,6.88,Medium Risk
+18,Mechanical,5.5,7.28,6.07,5.57,Non-Veg,85.6,5.82,Day Scholar,80.61,8.65,Low Risk
+24,Civil,3.55,6.88,7.24,7.39,Veg,77.67,3.79,Day Scholar,72.1,7.37,Low Risk
+20,ECE,4.34,6.87,3.51,17.65,Veg,79.78,3.48,Day Scholar,83.22,8.31,Low Risk
+25,Civil,4.11,8.24,5.81,1.04,Non-Veg,86.51,2.72,Hosteller,69.23,8.11,Low Risk
+21,IT,3.97,4.83,3.18,6.06,Veg,75.64,6.21,Hosteller,48.63,6.51,Medium Risk
+25,CSE,3.98,6.62,4.62,10.96,Non-Veg,84.52,3.76,Hosteller,59.88,6.79,Medium Risk
+20,ECE,6.19,5.81,5.11,4.76,Veg,88.28,8.11,Hosteller,55.25,7.02,High Risk
+21,IT,5.26,8.22,5.31,15.85,Non-Veg,92.92,3.01,Day Scholar,92.84,8.8,Low Risk
+25,IT,3.46,3.85,5.22,10.8,Veg,79.41,8.7,Hosteller,43.19,5.28,High Risk
+24,ECE,6.37,3.9,6.6,2.97,Non-Veg,88.12,10.0,Hosteller,74.33,7.95,High Risk
+19,Civil,4.41,6.87,3.81,8.14,Non-Veg,80.51,4.9,Day Scholar,70.92,7.36,Low Risk
+17,Electrical,4.54,7.85,5.36,3.05,Veg,86.24,6.53,Day Scholar,61.51,6.64,Medium Risk
+19,IT,2.74,7.43,3.48,2.54,Veg,71.22,2.01,Hosteller,85.81,8.38,Low Risk
+20,Mechanical,3.25,5.54,10.84,6.21,Non-Veg,76.38,5.33,Hosteller,62.0,7.0,Low Risk
+18,IT,2.97,8.31,3.17,14.08,Non-Veg,72.27,1.88,Hosteller,61.52,7.3,Low Risk
+17,Electrical,4.13,5.02,3.6,11.17,Veg,89.44,6.9,Hosteller,55.36,6.64,Medium Risk
+23,Civil,4.96,8.07,6.77,6.87,Veg,94.45,5.39,Hosteller,79.27,8.39,Low Risk
+24,Civil,4.55,5.18,4.14,11.37,Non-Veg,90.07,6.92,Hosteller,60.01,6.77,Medium Risk
+23,Mechanical,6.38,6.08,6.77,8.5,Veg,91.29,8.35,Day Scholar,64.9,7.7,High Risk
+21,IT,2.67,7.27,5.31,0.45,Non-Veg,71.33,1.85,Day Scholar,66.85,7.18,Low Risk
+17,Civil,4.17,4.74,4.19,6.19,Veg,76.97,6.23,Day Scholar,65.07,6.84,Medium Risk
+23,Electrical,2.08,8.26,3.49,6.59,Non-Veg,78.06,2.45,Day Scholar,63.61,6.92,Medium Risk
+23,ECE,2.62,6.07,3.42,11.27,Non-Veg,77.74,4.14,Hosteller,51.47,5.22,High Risk
+25,CSE,5.9,6.66,4.22,3.83,Non-Veg,94.38,6.48,Hosteller,72.67,8.03,Medium Risk
+19,CSE,3.31,7.89,4.65,1.89,Veg,75.28,1.66,Hosteller,62.07,7.23,Low Risk
+25,CSE,2.79,5.55,3.34,6.74,Non-Veg,65.19,5.21,Hosteller,64.62,6.73,Medium Risk
+17,IT,0.81,7.77,4.78,3.39,Veg,56.39,1.0,Day Scholar,51.1,6.17,Medium Risk
+17,Mechanical,2.78,8.47,2.81,5.19,Veg,74.19,1.0,Hosteller,55.87,6.84,Medium Risk
+20,Civil,3.69,5.71,6.51,6.55,Veg,75.85,5.09,Hosteller,59.29,5.95,Medium Risk
+25,ECE,1.96,8.14,6.89,4.85,Veg,66.63,1.0,Hosteller,65.64,7.49,Low Risk
+22,Electrical,3.61,4.39,3.59,12.39,Non-Veg,79.75,6.83,Hosteller,63.1,6.09,Medium Risk
+19,ECE,5.91,6.97,3.48,14.92,Veg,94.6,6.32,Day Scholar,70.31,7.34,Medium Risk
+17,Electrical,2.94,5.03,5.36,11.83,Non-Veg,71.19,4.56,Hosteller,50.66,5.86,Medium Risk
+20,IT,2.58,7.63,7.53,0.0,Non-Veg,66.4,1.69,Day Scholar,70.52,7.57,Low Risk
+25,CSE,2.31,7.53,7.97,3.4,Non-Veg,68.18,1.66,Hosteller,83.58,7.88,Low Risk
+19,IT,2.29,8.99,2.19,6.0,Veg,66.22,1.0,Hosteller,69.16,7.27,Low Risk
+25,Mechanical,4.8,8.21,7.01,0.0,Veg,86.98,3.78,Hosteller,80.11,8.58,Low Risk
+23,Mechanical,4.07,6.3,4.88,2.1,Non-Veg,80.34,4.52,Day Scholar,55.33,6.48,Medium Risk
+20,Electrical,5.44,5.2,4.92,5.93,Veg,96.58,7.35,Hosteller,74.52,7.26,Medium Risk
+19,Civil,7.03,7.18,6.01,4.49,Veg,98.82,6.7,Hosteller,87.8,9.02,Medium Risk
+21,Civil,1.25,6.43,4.04,7.05,Veg,75.34,1.47,Hosteller,58.79,6.86,Medium Risk
+21,Electrical,4.57,8.36,7.19,0.0,Veg,75.83,3.49,Day Scholar,89.19,8.87,Low Risk
+19,Mechanical,2.32,3.9,7.85,4.42,Non-Veg,55.35,6.2,Day Scholar,52.81,5.78,Medium Risk
+25,Mechanical,5.18,9.13,7.92,7.85,Veg,87.13,2.53,Hosteller,85.8,10.0,Low Risk
+20,Mechanical,3.59,7.14,1.31,7.06,Veg,78.58,3.85,Day Scholar,64.35,7.48,Low Risk
+21,IT,4.04,5.52,4.54,9.5,Veg,79.59,6.04,Hosteller,73.18,7.64,Medium Risk
+20,Mechanical,2.08,7.38,1.13,9.18,Veg,70.86,1.0,Hosteller,58.38,6.95,Medium Risk
+21,ECE,3.36,8.06,3.47,4.72,Veg,71.18,3.28,Day Scholar,62.35,7.54,Low Risk
+23,CSE,4.13,6.64,1.0,7.67,Veg,83.49,6.55,Hosteller,58.87,6.78,Medium Risk
+25,Mechanical,6.03,4.38,5.9,2.52,Veg,93.85,8.56,Hosteller,56.21,6.41,High Risk
+23,Electrical,2.81,6.15,5.44,5.49,Non-Veg,68.04,3.49,Day Scholar,47.82,5.69,Medium Risk
+21,CSE,3.17,7.75,4.13,1.09,Veg,74.1,2.21,Day Scholar,71.75,8.22,Low Risk
+23,IT,5.42,7.1,3.42,12.97,Veg,85.62,5.94,Day Scholar,71.38,7.42,Medium Risk
+21,Electrical,2.71,6.31,5.63,5.47,Veg,70.2,3.91,Day Scholar,59.92,6.52,Medium Risk
+19,CSE,5.71,8.07,2.98,12.96,Veg,82.76,3.05,Hosteller,86.69,9.92,Low Risk
+23,Electrical,3.99,7.39,2.84,8.74,Non-Veg,79.99,2.73,Hosteller,72.88,8.34,Low Risk
+18,IT,4.45,7.48,2.6,2.04,Veg,83.58,4.48,Hosteller,77.59,8.69,Low Risk
+25,ECE,4.55,6.01,4.59,8.41,Veg,79.71,5.4,Hosteller,65.98,7.37,Low Risk
+17,IT,3.08,5.89,3.84,11.53,Veg,69.92,3.02,Hosteller,66.21,7.4,Low Risk
+22,IT,4.58,4.46,4.23,6.57,Non-Veg,84.98,8.63,Hosteller,57.82,5.94,High Risk
+23,Electrical,2.84,6.19,6.04,7.41,Veg,70.37,2.85,Hosteller,60.95,6.66,Medium Risk
+24,Civil,3.25,7.62,6.93,3.91,Non-Veg,74.69,2.66,Hosteller,72.69,7.95,Low Risk
+25,Mechanical,4.84,6.26,7.9,7.13,Veg,82.01,5.41,Day Scholar,72.95,7.31,Low Risk
+18,Mechanical,4.44,7.03,5.12,8.33,Non-Veg,88.43,3.33,Hosteller,84.94,8.4,Low Risk
+18,ECE,3.89,7.83,5.7,3.76,Non-Veg,75.83,3.24,Hosteller,62.63,7.64,Low Risk
+21,ECE,2.11,6.95,5.38,0.96,Veg,79.19,2.56,Hosteller,53.32,6.8,Medium Risk
+21,Mechanical,2.49,7.06,1.65,14.21,Veg,76.19,1.95,Hosteller,63.69,7.27,Low Risk
+22,Civil,4.42,4.87,4.26,10.38,Veg,91.18,6.21,Hosteller,69.61,7.3,Medium Risk
+19,Mechanical,5.1,6.11,4.27,3.93,Veg,88.81,6.59,Day Scholar,65.72,7.09,Medium Risk
+24,Civil,2.34,8.57,3.98,8.23,Veg,70.57,1.0,Day Scholar,80.95,8.41,Low Risk
+17,ECE,2.74,6.62,4.92,0.0,Veg,69.11,2.27,Day Scholar,59.56,6.84,Medium Risk
+22,CSE,4.2,8.78,4.56,0.0,Veg,79.23,2.64,Hosteller,67.79,8.62,Low Risk
+20,Electrical,4.17,5.63,3.03,13.07,Veg,88.28,5.01,Hosteller,54.2,6.78,Medium Risk
+17,ECE,1.56,6.78,4.7,8.29,Veg,67.58,1.24,Hosteller,70.14,7.48,Low Risk
+23,ECE,4.24,6.04,3.72,6.73,Veg,84.52,6.1,Hosteller,63.93,6.51,Medium Risk
+25,IT,3.1,7.21,1.0,8.3,Veg,76.55,2.26,Day Scholar,55.87,7.27,Low Risk
+20,IT,6.46,7.57,2.21,21.0,Non-Veg,93.56,7.87,Day Scholar,73.69,7.4,Medium Risk
+20,IT,4.37,7.22,5.18,11.87,Veg,83.31,2.4,Hosteller,77.94,8.4,Low Risk
+22,Electrical,4.63,7.75,7.18,1.15,Non-Veg,85.64,1.67,Hosteller,81.76,9.12,Low Risk
+19,IT,4.67,6.48,1.0,0.0,Veg,79.28,6.07,Day Scholar,64.56,7.52,Medium Risk
+22,Civil,2.18,6.27,3.26,12.91,Veg,69.52,1.92,Day Scholar,70.17,6.91,Medium Risk
+23,Mechanical,6.92,4.39,5.86,11.79,Veg,96.13,8.56,Day Scholar,68.65,7.13,High Risk
+19,CSE,1.57,7.27,6.76,10.22,Veg,68.65,2.28,Day Scholar,61.57,6.57,Medium Risk
+23,ECE,5.19,6.71,4.16,2.45,Non-Veg,83.66,4.99,Day Scholar,66.91,7.84,Low Risk
+19,Civil,4.93,6.42,3.63,9.03,Non-Veg,86.72,6.42,Day Scholar,75.04,7.44,Medium Risk
+18,CSE,3.28,6.27,7.44,2.95,Veg,72.57,3.4,Day Scholar,65.81,7.3,Low Risk
+20,Civil,5.0,6.46,6.59,10.71,Non-Veg,78.88,5.91,Hosteller,76.99,8.39,Low Risk
+24,Civil,3.52,6.22,6.72,12.5,Veg,79.09,3.8,Hosteller,65.51,7.24,Low Risk
+25,ECE,2.99,5.87,4.06,3.96,Non-Veg,68.94,3.2,Day Scholar,60.84,7.19,Low Risk
+23,Mechanical,4.7,6.79,7.23,13.34,Non-Veg,84.92,6.65,Hosteller,66.59,7.22,Medium Risk
+17,IT,2.49,7.08,1.11,7.64,Veg,62.68,3.53,Day Scholar,63.69,6.69,Medium Risk
+19,Electrical,3.66,5.58,7.26,9.75,Veg,74.69,4.36,Hosteller,62.43,7.18,Low Risk
+25,Mechanical,3.11,6.02,4.87,0.0,Veg,73.91,3.91,Day Scholar,61.34,6.69,Medium Risk
+17,Electrical,3.5,6.25,5.26,8.3,Non-Veg,69.45,5.72,Hosteller,59.73,6.6,Medium Risk
+25,ECE,4.65,6.51,3.11,3.22,Veg,81.38,4.16,Day Scholar,80.39,8.42,Low Risk
+24,ECE,3.11,6.35,1.37,9.66,Non-Veg,81.47,2.83,Hosteller,61.89,7.04,Low Risk
+17,ECE,3.71,7.29,5.22,15.22,Non-Veg,72.21,3.89,Hosteller,70.54,7.71,Low Risk
+22,CSE,3.25,4.52,6.1,8.62,Veg,74.5,8.0,Day Scholar,40.08,4.21,High Risk
+21,Electrical,6.17,4.73,6.41,1.96,Veg,99.34,8.49,Day Scholar,61.45,7.01,High Risk
+22,Mechanical,4.51,6.73,6.19,10.51,Non-Veg,77.26,5.83,Day Scholar,59.41,7.06,Medium Risk
+21,Mechanical,4.33,5.78,5.74,9.25,Veg,88.64,4.54,Hosteller,63.76,7.45,Low Risk
+22,Civil,5.03,7.56,3.15,18.53,Non-Veg,83.73,4.83,Hosteller,73.7,7.96,Low Risk
+21,Civil,3.11,7.9,6.53,8.42,Veg,76.05,1.85,Hosteller,70.49,7.96,Low Risk
+21,Civil,5.29,6.78,2.93,3.72,Veg,92.9,7.38,Hosteller,62.91,7.13,Medium Risk
+20,ECE,4.52,5.21,7.21,11.32,Veg,80.17,7.9,Day Scholar,62.21,6.58,Medium Risk
+19,Mechanical,1.66,7.77,4.83,6.29,Non-Veg,71.45,3.17,Day Scholar,56.75,5.74,Medium Risk
+19,Electrical,1.86,6.74,4.9,7.45,Veg,73.71,1.42,Hosteller,69.78,7.09,Low Risk
+20,ECE,3.14,4.72,6.73,1.8,Non-Veg,72.45,5.46,Day Scholar,48.43,5.72,Medium Risk
+25,CSE,2.02,4.82,7.0,6.31,Veg,66.29,4.57,Day Scholar,62.1,6.39,Medium Risk
+18,Civil,3.64,8.32,6.54,7.17,Non-Veg,77.07,1.67,Day Scholar,81.28,7.87,Low Risk
+25,ECE,2.48,8.12,3.36,6.28,Veg,71.41,1.49,Day Scholar,74.1,8.16,Low Risk
+17,ECE,3.85,3.48,6.53,3.69,Veg,73.87,8.28,Hosteller,49.29,5.52,High Risk
+17,CSE,6.12,4.87,3.37,8.61,Non-Veg,87.38,7.7,Day Scholar,56.38,6.42,High Risk
+21,IT,3.93,7.87,6.58,1.83,Veg,62.3,2.35,Day Scholar,64.75,7.79,Low Risk
+22,Mechanical,3.55,6.48,2.15,0.51,Veg,76.06,3.3,Day Scholar,74.93,7.86,Low Risk
+22,Electrical,4.58,7.34,4.81,10.97,Veg,87.38,2.9,Hosteller,78.36,8.74,Low Risk
+19,IT,2.96,6.43,3.36,10.46,Non-Veg,66.44,4.38,Day Scholar,54.09,6.09,Medium Risk
+23,Civil,5.27,7.29,6.74,0.0,Non-Veg,84.01,4.27,Hosteller,85.47,9.12,Low Risk
+25,ECE,4.74,6.51,7.23,0.0,Veg,95.93,4.42,Hosteller,74.16,7.81,Low Risk
+24,CSE,4.06,5.97,5.4,1.35,Veg,80.18,5.61,Day Scholar,63.49,7.39,Medium Risk
+22,CSE,4.23,7.77,5.33,6.28,Non-Veg,87.94,3.45,Day Scholar,64.18,7.45,Low Risk
+24,Mechanical,7.06,6.74,6.41,13.46,Veg,90.25,6.79,Hosteller,71.77,8.32,Medium Risk
+21,IT,5.41,7.28,7.24,6.14,Non-Veg,89.31,5.94,Hosteller,83.74,8.13,Low Risk
+24,Mechanical,7.3,6.69,5.07,2.69,Veg,90.59,7.04,Hosteller,83.41,8.45,Medium Risk
+20,ECE,4.8,5.92,4.0,7.83,Non-Veg,86.0,3.7,Hosteller,61.95,6.49,Medium Risk
+24,Mechanical,1.79,8.43,6.29,6.36,Non-Veg,73.17,1.7,Day Scholar,62.54,7.16,Low Risk
+18,Electrical,3.61,6.93,1.28,0.0,Non-Veg,81.06,2.85,Hosteller,59.12,6.71,Medium Risk
+21,CSE,1.45,6.07,6.82,0.0,Non-Veg,65.52,1.66,Day Scholar,56.29,6.05,Medium Risk
+25,CSE,4.79,8.03,3.58,0.0,Veg,85.34,3.04,Day Scholar,81.85,7.87,Low Risk
+20,Civil,5.12,4.92,4.52,20.89,Veg,87.01,7.26,Hosteller,68.42,7.44,Medium Risk
+22,Civil,2.67,9.18,6.83,11.82,Veg,76.69,1.0,Day Scholar,82.31,8.86,Low Risk
+17,ECE,3.02,6.29,4.17,3.68,Non-Veg,74.46,4.72,Hosteller,48.65,6.82,Medium Risk
+25,Electrical,4.22,4.98,6.29,13.21,Non-Veg,85.77,7.89,Hosteller,55.72,6.05,High Risk
+17,IT,2.2,8.79,7.28,3.82,Non-Veg,78.19,1.0,Hosteller,63.17,7.79,Low Risk
+21,Mechanical,2.09,5.94,5.22,13.02,Veg,68.86,2.21,Day Scholar,63.68,7.35,Low Risk
+20,ECE,5.86,6.79,5.62,7.45,Veg,89.52,5.54,Day Scholar,65.2,7.22,Medium Risk
+19,Civil,4.17,7.36,4.76,3.31,Veg,76.34,4.25,Hosteller,62.96,7.16,Low Risk
+22,Mechanical,3.16,7.92,5.23,10.81,Non-Veg,77.52,2.13,Day Scholar,71.94,8.35,Low Risk
+18,Civil,1.46,6.86,2.77,7.77,Veg,69.04,1.1,Day Scholar,64.59,7.52,Low Risk
+19,Mechanical,5.28,5.72,4.41,9.23,Veg,86.68,5.26,Day Scholar,71.21,8.03,Low Risk
+21,IT,2.97,6.76,2.42,8.21,Non-Veg,75.53,1.0,Day Scholar,64.55,7.31,Low Risk
+25,ECE,6.79,6.0,3.2,8.15,Veg,100.0,6.79,Day Scholar,78.69,8.73,Medium Risk
+18,Mechanical,5.29,6.8,1.0,11.48,Veg,72.01,6.75,Hosteller,73.42,8.19,Medium Risk
+24,Electrical,2.79,8.45,5.53,21.0,Veg,71.46,1.77,Day Scholar,80.12,8.19,Low Risk
+18,CSE,2.93,7.41,8.38,13.99,Non-Veg,72.92,2.33,Day Scholar,46.38,6.29,Medium Risk
+21,Electrical,6.58,6.75,4.09,8.23,Veg,100.0,7.56,Hosteller,74.05,8.09,Medium Risk
+23,Electrical,3.87,7.39,6.93,5.26,Non-Veg,81.74,2.2,Day Scholar,76.26,8.43,Low Risk
+24,CSE,3.23,7.47,7.25,5.88,Veg,78.65,2.81,Day Scholar,65.3,7.33,Low Risk
+17,Electrical,4.04,5.21,2.6,0.0,Non-Veg,86.51,4.05,Day Scholar,62.58,7.34,Low Risk
+22,Mechanical,3.22,6.55,3.03,10.72,Veg,75.22,4.02,Hosteller,60.28,6.78,Medium Risk
+17,Mechanical,4.36,9.58,6.98,1.32,Veg,85.07,2.05,Day Scholar,68.22,8.49,Low Risk
+18,Mechanical,3.89,7.96,4.82,4.91,Non-Veg,76.78,3.21,Day Scholar,79.46,8.71,Low Risk
+17,CSE,5.31,5.9,2.42,10.75,Non-Veg,81.3,7.59,Hosteller,66.73,7.2,Medium Risk
+21,Electrical,3.42,5.78,3.73,5.67,Veg,86.06,5.42,Hosteller,50.73,6.03,Medium Risk
+25,CSE,2.67,5.74,5.84,4.24,Non-Veg,75.21,2.73,Day Scholar,65.9,6.24,Medium Risk
+22,Mechanical,3.48,7.54,3.41,0.29,Veg,80.61,4.12,Hosteller,61.74,6.93,Medium Risk
+17,Electrical,3.47,8.43,1.0,13.75,Non-Veg,71.94,1.83,Hosteller,70.33,7.79,Low Risk
+17,Electrical,3.88,7.2,4.36,2.33,Non-Veg,81.97,1.71,Hosteller,81.64,8.33,Low Risk
+18,Civil,4.95,6.69,4.52,3.72,Veg,93.65,5.15,Day Scholar,82.76,8.01,Low Risk
+25,Civil,4.87,5.97,5.02,0.0,Non-Veg,82.96,6.55,Day Scholar,60.92,7.39,Medium Risk
+19,IT,5.8,6.9,7.52,6.89,Veg,82.72,4.89,Hosteller,69.26,8.02,Low Risk
+17,ECE,2.78,5.52,5.11,5.13,Veg,74.83,5.6,Hosteller,58.47,6.55,Medium Risk
+21,Civil,4.58,4.18,5.49,8.02,Non-Veg,77.74,6.48,Hosteller,61.58,7.25,Medium Risk
+23,CSE,5.09,8.46,7.11,0.42,Non-Veg,77.67,3.15,Hosteller,82.29,8.67,Low Risk
+22,Civil,2.99,5.29,5.02,11.11,Veg,71.27,4.03,Day Scholar,50.87,6.13,Medium Risk
+17,IT,3.69,6.11,9.27,0.0,Veg,75.98,2.87,Hosteller,74.95,7.62,Low Risk
+21,Electrical,1.38,7.29,2.47,6.48,Veg,61.94,1.0,Day Scholar,75.68,8.06,Low Risk
+21,IT,5.36,8.22,3.13,7.65,Non-Veg,93.43,3.43,Hosteller,80.55,8.3,Low Risk
+22,Electrical,3.68,6.81,6.23,7.32,Veg,87.83,3.74,Day Scholar,60.41,7.18,Low Risk
+19,Electrical,5.21,5.07,7.51,7.88,Veg,89.14,4.14,Day Scholar,69.42,7.93,Low Risk
+21,ECE,4.31,6.14,4.6,11.42,Veg,83.47,5.89,Hosteller,70.35,7.32,Medium Risk
+23,Civil,3.72,5.69,2.98,14.42,Veg,77.9,5.74,Day Scholar,54.48,5.65,Medium Risk
+21,CSE,1.61,6.45,8.52,6.13,Veg,63.57,3.34,Day Scholar,60.75,6.91,Medium Risk
+21,CSE,1.88,7.98,3.42,1.58,Veg,77.4,1.0,Day Scholar,71.89,8.07,Low Risk
+21,Mechanical,0.5,3.46,5.68,10.14,Veg,62.19,3.75,Hosteller,39.71,4.65,High Risk
+19,Electrical,3.16,6.01,7.63,5.43,Veg,73.47,5.09,Day Scholar,70.43,7.92,Low Risk
+17,CSE,7.42,5.92,4.12,14.08,Non-Veg,100.0,9.53,Day Scholar,70.69,8.39,High Risk
+21,ECE,2.07,4.99,3.76,3.63,Veg,69.97,5.56,Hosteller,49.77,6.16,Medium Risk
+25,Electrical,0.5,7.2,3.89,2.2,Non-Veg,67.39,1.0,Hosteller,68.34,7.03,Low Risk
+17,ECE,5.44,4.8,6.8,7.81,Non-Veg,85.17,7.59,Day Scholar,66.75,7.53,Medium Risk
+19,CSE,7.55,4.94,7.12,0.0,Non-Veg,100.0,8.05,Day Scholar,78.57,8.09,High Risk
+20,CSE,4.45,7.52,5.07,4.38,Non-Veg,87.13,4.99,Hosteller,71.51,7.61,Low Risk
+17,Mechanical,4.43,8.3,8.77,5.15,Veg,88.79,2.67,Hosteller,73.98,8.05,Low Risk
+17,CSE,3.54,6.41,5.06,8.23,Veg,74.13,4.16,Day Scholar,58.24,6.87,Medium Risk
+24,Electrical,1.31,5.04,7.58,1.42,Veg,66.13,3.24,Day Scholar,44.95,5.67,Medium Risk
+18,Electrical,1.82,5.65,4.14,2.07,Veg,78.86,1.0,Hosteller,60.34,6.96,Medium Risk
+24,Electrical,3.52,7.71,9.67,13.48,Non-Veg,76.39,2.0,Hosteller,87.35,8.85,Low Risk
+23,Mechanical,3.24,6.64,8.14,6.92,Non-Veg,80.24,4.05,Day Scholar,58.48,6.0,Medium Risk
+18,Mechanical,3.83,6.38,4.74,11.84,Non-Veg,90.59,4.4,Day Scholar,68.57,7.92,Low Risk
+22,CSE,5.24,6.88,7.87,3.97,Veg,76.97,5.83,Hosteller,63.17,7.27,Medium Risk
+22,IT,3.13,6.45,7.77,6.7,Non-Veg,74.24,4.46,Day Scholar,56.36,6.78,Medium Risk
+19,IT,5.27,8.35,8.11,8.2,Veg,86.38,3.1,Day Scholar,69.17,8.54,Low Risk
+18,Mechanical,3.14,5.6,1.0,16.79,Veg,66.69,4.02,Day Scholar,70.02,7.72,Low Risk
+17,CSE,5.56,5.46,6.44,5.78,Veg,85.51,6.95,Day Scholar,72.45,7.09,Medium Risk
+22,IT,4.13,4.84,6.08,6.07,Non-Veg,75.79,7.06,Hosteller,67.98,6.59,Medium Risk
+21,CSE,3.35,5.85,5.94,13.15,Veg,81.02,4.26,Hosteller,67.72,7.19,Low Risk
+25,CSE,4.1,5.19,5.44,4.87,Non-Veg,71.86,4.13,Day Scholar,57.11,6.68,Medium Risk
+17,CSE,3.56,6.76,5.5,8.59,Non-Veg,87.25,3.6,Day Scholar,58.99,7.36,Low Risk
+23,Civil,4.17,6.53,7.57,12.66,Non-Veg,84.3,5.38,Day Scholar,75.4,7.8,Low Risk
+21,Electrical,5.14,5.21,6.08,3.78,Veg,80.42,8.29,Day Scholar,58.04,6.2,High Risk
+21,CSE,3.87,7.21,5.43,8.91,Non-Veg,84.48,3.94,Hosteller,70.37,7.99,Low Risk
+18,Civil,3.45,8.32,7.28,16.78,Non-Veg,80.21,1.0,Day Scholar,71.98,8.27,Low Risk
+19,Mechanical,2.31,6.93,5.84,12.16,Veg,71.38,1.98,Day Scholar,72.87,7.76,Low Risk
+23,IT,4.87,3.45,6.03,8.6,Veg,80.74,8.9,Hosteller,57.21,6.82,High Risk
+22,Electrical,4.52,8.88,8.73,5.74,Veg,85.35,3.5,Hosteller,68.11,7.44,Low Risk
+18,IT,2.23,7.4,4.13,3.62,Veg,71.75,2.34,Day Scholar,51.91,6.45,Medium Risk
+22,Electrical,5.25,8.85,1.97,1.47,Veg,82.82,3.15,Hosteller,89.95,8.76,Low Risk
+18,IT,2.2,7.81,5.14,15.45,Non-Veg,64.3,2.25,Hosteller,68.03,7.94,Low Risk
+18,Electrical,5.54,8.05,5.43,14.37,Veg,83.47,3.85,Day Scholar,84.65,9.05,Low Risk
+18,IT,5.03,6.75,6.44,3.32,Veg,82.64,5.47,Day Scholar,57.95,7.1,Low Risk
+19,IT,4.63,6.19,5.21,8.89,Non-Veg,88.96,6.19,Hosteller,66.65,7.5,Medium Risk
+18,IT,3.43,6.95,6.51,7.62,Veg,81.48,4.06,Day Scholar,65.39,6.77,Medium Risk
+20,IT,4.86,5.65,10.01,13.63,Non-Veg,82.07,6.81,Hosteller,72.46,7.44,Medium Risk
+25,Mechanical,5.61,7.02,6.6,9.14,Veg,86.02,6.17,Hosteller,77.54,8.19,Medium Risk
+22,CSE,4.89,3.35,6.95,6.87,Veg,89.4,7.49,Hosteller,52.37,5.9,High Risk
+17,ECE,2.99,6.55,4.74,3.97,Veg,76.31,3.46,Day Scholar,59.99,7.04,Low Risk
+24,Civil,4.4,8.11,2.23,8.91,Veg,83.27,2.38,Day Scholar,77.07,9.16,Low Risk
+23,ECE,5.7,6.61,1.0,5.05,Veg,84.97,5.8,Hosteller,71.03,7.06,Medium Risk
+19,ECE,7.3,8.57,3.96,8.24,Non-Veg,95.88,4.56,Hosteller,89.41,9.88,Low Risk
+17,Electrical,3.69,6.18,1.0,6.57,Veg,78.48,4.85,Day Scholar,59.42,6.44,Medium Risk
+21,CSE,5.29,7.7,6.03,4.91,Non-Veg,85.98,2.62,Hosteller,86.1,8.92,Low Risk
+20,Electrical,5.7,5.45,4.23,1.55,Veg,92.18,7.87,Hosteller,69.33,7.38,Medium Risk
+24,CSE,2.78,7.65,2.37,9.88,Veg,77.73,2.14,Day Scholar,76.44,8.56,Low Risk
+17,CSE,6.67,6.78,5.26,7.24,Non-Veg,88.77,8.8,Day Scholar,73.09,7.71,High Risk
+17,IT,2.4,6.24,3.52,17.01,Veg,69.51,2.96,Day Scholar,64.68,7.53,Low Risk
+20,Mechanical,5.21,3.41,5.9,1.22,Non-Veg,82.63,8.6,Day Scholar,44.54,5.81,High Risk
+24,IT,4.46,6.19,6.42,10.5,Non-Veg,89.23,5.95,Hosteller,69.0,6.88,Medium Risk
+21,Mechanical,4.08,6.76,3.6,6.54,Non-Veg,91.68,4.18,Day Scholar,67.87,7.84,Low Risk
+18,Electrical,7.82,7.49,4.53,18.76,Veg,96.78,7.6,Day Scholar,79.58,9.01,Medium Risk
+22,Mechanical,3.55,8.37,5.43,10.07,Veg,76.91,3.17,Hosteller,68.12,7.69,Low Risk
+21,Electrical,3.52,8.94,2.19,8.82,Non-Veg,81.83,1.31,Hosteller,71.97,8.33,Low Risk
+18,ECE,6.0,8.0,5.43,6.55,Non-Veg,86.45,6.2,Hosteller,86.55,9.0,Medium Risk
+19,ECE,5.14,5.83,2.14,3.06,Veg,90.04,4.64,Day Scholar,71.31,7.72,Low Risk
+25,Mechanical,5.92,6.13,6.13,8.74,Veg,89.51,8.39,Hosteller,59.25,6.75,High Risk
+23,Mechanical,4.18,7.39,4.13,0.0,Veg,72.16,2.0,Day Scholar,65.22,7.95,Low Risk
+23,Electrical,4.48,7.12,2.13,0.0,Veg,75.87,5.7,Hosteller,71.12,7.73,Low Risk
+22,IT,6.85,8.45,3.84,12.67,Veg,92.57,3.53,Day Scholar,77.75,10.0,Low Risk
+24,Electrical,2.75,9.48,3.92,0.0,Veg,79.85,2.25,Hosteller,69.61,7.61,Low Risk
+20,IT,3.85,9.22,7.14,5.21,Non-Veg,74.77,1.79,Day Scholar,93.93,9.69,Low Risk
+24,ECE,5.2,8.29,5.35,1.12,Non-Veg,83.32,2.96,Day Scholar,80.28,8.88,Low Risk
+20,CSE,3.71,7.13,3.09,4.75,Non-Veg,79.59,5.44,Hosteller,67.94,6.88,Medium Risk
+24,Mechanical,3.14,8.12,8.3,8.03,Veg,67.38,1.0,Hosteller,63.65,7.76,Low Risk
+25,IT,4.93,8.49,6.25,12.51,Veg,86.13,3.21,Day Scholar,87.54,8.59,Low Risk
+19,Electrical,6.0,6.32,4.33,13.82,Non-Veg,82.3,9.29,Hosteller,65.82,6.7,High Risk
+19,ECE,3.79,5.86,1.89,1.85,Non-Veg,81.78,5.32,Day Scholar,60.25,6.43,Medium Risk
+18,IT,3.75,5.58,4.15,4.39,Non-Veg,74.69,3.14,Day Scholar,56.37,6.6,Medium Risk
+19,Electrical,3.03,5.45,4.56,21.0,Non-Veg,70.43,4.31,Day Scholar,63.66,7.5,Low Risk
+19,Mechanical,3.56,4.84,5.74,5.6,Veg,79.14,5.35,Hosteller,62.9,7.03,Low Risk
+21,Mechanical,5.63,6.8,6.21,2.06,Non-Veg,92.1,6.01,Day Scholar,78.62,8.07,Medium Risk
+21,Civil,4.12,5.3,6.61,2.99,Veg,82.49,5.78,Day Scholar,53.97,6.73,Medium Risk
+18,CSE,2.79,5.56,1.78,5.63,Veg,75.0,4.78,Day Scholar,57.21,6.35,Medium Risk
+22,Civil,4.39,7.34,5.42,4.8,Non-Veg,83.08,2.52,Day Scholar,75.3,7.96,Low Risk
+21,ECE,5.58,6.72,4.68,5.69,Veg,89.8,5.31,Hosteller,72.41,7.53,Low Risk
+22,IT,3.16,7.02,10.36,6.88,Veg,78.03,3.45,Hosteller,72.24,7.62,Low Risk
+17,ECE,2.01,8.14,5.13,6.84,Veg,68.06,1.0,Day Scholar,59.52,7.4,Low Risk
+21,Electrical,7.29,7.54,3.75,1.65,Veg,99.7,7.84,Hosteller,83.86,8.69,Medium Risk
+25,Mechanical,1.93,8.32,5.22,9.07,Non-Veg,65.67,1.0,Hosteller,60.57,6.69,Medium Risk
+18,Civil,3.46,6.6,4.98,7.68,Veg,82.76,4.01,Day Scholar,57.89,7.04,Low Risk
+17,Civil,4.35,8.43,1.02,9.78,Veg,85.65,2.81,Hosteller,70.77,7.88,Low Risk
+25,Civil,3.59,6.93,5.82,0.0,Veg,88.86,2.64,Hosteller,62.11,7.99,Low Risk
+25,ECE,3.89,6.7,4.38,7.88,Veg,82.01,4.25,Hosteller,73.96,7.9,Low Risk
+25,Mechanical,4.87,8.25,4.95,0.0,Veg,88.87,2.3,Hosteller,85.85,9.61,Low Risk
+22,IT,0.5,5.45,3.25,6.02,Non-Veg,54.7,1.6,Hosteller,44.01,5.6,Medium Risk
+24,Electrical,2.1,8.93,2.81,10.68,Veg,75.21,1.0,Hosteller,63.18,7.18,Low Risk
+17,IT,4.07,6.16,6.76,12.86,Non-Veg,86.21,3.48,Day Scholar,63.24,7.42,Low Risk
+20,ECE,3.39,5.04,7.22,8.87,Non-Veg,84.49,5.98,Hosteller,49.89,5.9,Medium Risk
+17,Electrical,4.19,7.28,5.84,10.78,Non-Veg,81.57,4.17,Day Scholar,60.14,7.94,Low Risk
+24,Civil,4.34,6.05,1.38,5.33,Veg,80.0,5.83,Day Scholar,48.92,6.37,Medium Risk
+17,CSE,0.83,8.93,5.97,4.15,Veg,58.68,1.0,Day Scholar,53.79,6.1,Medium Risk
+19,ECE,5.91,5.98,1.41,21.0,Non-Veg,84.56,5.78,Hosteller,68.51,7.84,Low Risk
+20,ECE,3.25,6.88,3.68,11.63,Veg,76.13,3.38,Hosteller,73.97,7.68,Low Risk
+24,Mechanical,2.7,4.79,6.73,0.43,Non-Veg,64.75,5.54,Day Scholar,45.48,5.4,High Risk
+22,IT,4.31,7.48,6.32,0.0,Non-Veg,77.72,2.65,Day Scholar,75.78,8.71,Low Risk
+23,ECE,4.16,5.57,5.91,4.4,Non-Veg,81.25,4.48,Day Scholar,64.63,7.45,Low Risk
+24,ECE,5.8,7.33,7.63,13.67,Non-Veg,89.31,5.22,Hosteller,81.38,9.15,Low Risk
+18,Civil,4.41,5.99,6.12,7.27,Veg,77.19,5.05,Hosteller,62.79,6.93,Medium Risk
+24,Civil,5.74,4.04,1.0,0.0,Veg,82.52,8.68,Hosteller,50.57,5.84,High Risk
+19,Electrical,2.59,6.66,4.26,6.01,Non-Veg,67.54,2.64,Day Scholar,69.4,7.39,Low Risk
+23,CSE,4.21,6.6,4.92,6.99,Veg,79.96,4.77,Hosteller,79.52,7.56,Low Risk
+19,Mechanical,2.33,7.56,4.68,0.0,Veg,82.29,2.99,Hosteller,59.88,7.11,Low Risk
+23,CSE,4.15,8.37,3.77,7.14,Non-Veg,86.03,3.32,Day Scholar,70.74,7.64,Low Risk
+18,Electrical,3.83,8.79,2.94,1.33,Veg,80.21,2.09,Hosteller,79.5,8.82,Low Risk
+22,Civil,3.76,7.54,9.8,0.0,Non-Veg,81.59,2.12,Day Scholar,75.55,7.81,Low Risk
+19,IT,3.78,6.83,4.22,15.99,Non-Veg,83.97,3.22,Hosteller,70.93,7.77,Low Risk
+19,Civil,5.1,4.79,9.7,1.08,Veg,88.9,8.16,Day Scholar,53.45,6.34,High Risk
+25,Mechanical,1.59,6.74,2.72,3.26,Non-Veg,66.4,1.38,Hosteller,57.77,7.07,Low Risk
+23,Civil,2.65,6.76,6.31,3.19,Non-Veg,69.02,1.92,Day Scholar,63.95,6.77,Medium Risk
+21,Mechanical,3.94,6.26,5.46,7.01,Non-Veg,79.07,6.78,Hosteller,56.08,6.83,Medium Risk
+23,Mechanical,2.23,7.26,3.16,16.89,Veg,76.18,3.5,Day Scholar,69.56,7.07,Low Risk
+25,Mechanical,4.07,7.85,4.06,0.3,Veg,78.99,3.1,Day Scholar,76.02,8.14,Low Risk
+17,Electrical,3.92,5.52,4.97,5.28,Non-Veg,74.1,4.32,Hosteller,72.28,7.98,Low Risk
+23,Mechanical,1.89,5.5,3.31,7.68,Veg,60.85,4.12,Hosteller,48.38,6.1,Medium Risk
+22,Mechanical,1.82,6.33,4.49,2.13,Veg,68.5,2.0,Day Scholar,68.35,7.22,Low Risk
+25,IT,0.5,5.76,1.0,5.19,Non-Veg,57.37,2.63,Hosteller,59.48,5.71,Medium Risk
+17,CSE,2.17,4.53,6.42,10.33,Veg,68.66,4.15,Day Scholar,55.27,6.38,Medium Risk
+20,ECE,4.02,5.3,7.45,2.77,Veg,87.39,7.36,Day Scholar,45.77,5.5,High Risk
+25,CSE,4.23,5.02,5.91,5.1,Veg,80.9,5.69,Hosteller,61.22,6.85,Medium Risk
+20,Mechanical,4.3,7.95,9.53,4.58,Veg,77.76,5.72,Hosteller,64.37,6.89,Medium Risk
+19,IT,2.83,8.54,6.36,6.42,Non-Veg,75.71,1.48,Hosteller,69.64,8.03,Low Risk
+25,Civil,3.97,5.19,7.29,8.36,Veg,89.47,7.17,Day Scholar,62.65,6.46,High Risk
+18,IT,4.6,7.16,7.48,10.28,Veg,82.38,3.9,Day Scholar,85.35,8.42,Low Risk
+20,Mechanical,2.1,7.55,1.0,17.85,Non-Veg,58.71,1.0,Hosteller,71.07,7.71,Low Risk
+22,IT,4.18,4.71,5.85,0.0,Non-Veg,84.18,4.17,Day Scholar,61.68,7.03,Low Risk
+18,IT,4.98,6.69,2.23,6.06,Non-Veg,86.66,6.57,Day Scholar,65.04,6.98,Medium Risk
+24,Mechanical,3.26,9.54,2.64,0.0,Veg,76.77,1.0,Hosteller,72.44,7.4,Low Risk
+24,Electrical,5.59,7.31,2.99,4.84,Veg,86.87,4.03,Day Scholar,78.59,8.64,Low Risk
+17,IT,3.3,6.21,4.37,11.93,Non-Veg,72.46,5.41,Day Scholar,66.92,7.17,Low Risk
+19,ECE,2.71,5.83,6.3,13.71,Veg,81.12,5.04,Day Scholar,60.53,6.33,Medium Risk
+25,ECE,4.84,4.07,5.87,13.97,Non-Veg,74.98,9.14,Hosteller,48.99,5.93,High Risk
+21,IT,7.05,7.06,4.97,13.92,Veg,93.7,5.65,Hosteller,83.48,9.02,Low Risk
+22,Electrical,4.13,8.84,6.45,6.03,Veg,78.98,3.54,Day Scholar,65.19,7.99,Low Risk
+20,Civil,4.95,5.52,6.57,14.83,Non-Veg,89.03,6.81,Hosteller,60.88,7.13,Medium Risk
+18,Mechanical,3.24,4.18,5.89,15.94,Non-Veg,82.36,7.49,Day Scholar,53.69,5.33,High Risk
+24,ECE,2.14,5.7,1.55,7.78,Non-Veg,69.55,3.98,Hosteller,56.38,5.78,Medium Risk
+22,Civil,4.25,7.56,3.52,13.59,Veg,82.21,3.86,Day Scholar,69.43,7.86,Low Risk
+21,IT,4.49,5.99,5.05,7.23,Veg,83.82,6.76,Day Scholar,69.84,6.81,Medium Risk
+25,Civil,3.46,5.52,6.47,14.9,Veg,82.58,5.8,Day Scholar,59.86,7.38,Medium Risk
+17,CSE,4.95,6.52,2.34,6.09,Veg,89.9,6.51,Day Scholar,61.24,6.92,Medium Risk
+21,ECE,3.02,6.78,4.98,3.59,Veg,72.4,2.76,Hosteller,66.72,7.26,Low Risk
+22,IT,2.65,4.83,1.87,0.73,Veg,75.42,4.64,Day Scholar,40.27,6.03,Medium Risk
+21,Mechanical,5.59,6.24,7.05,6.03,Veg,89.87,4.62,Day Scholar,71.15,7.99,Low Risk
+22,Electrical,5.6,5.9,5.48,7.47,Non-Veg,87.41,6.13,Hosteller,65.98,7.96,Medium Risk
+22,IT,3.05,5.73,2.31,1.7,Non-Veg,77.11,5.11,Hosteller,62.55,7.56,Low Risk
+23,Mechanical,6.58,5.28,2.29,5.6,Non-Veg,92.99,8.86,Day Scholar,63.29,7.18,High Risk
+20,Electrical,3.57,7.63,5.77,4.05,Veg,78.64,1.96,Day Scholar,65.91,8.34,Low Risk
+24,Electrical,4.13,5.73,7.75,0.97,Non-Veg,73.86,6.68,Hosteller,46.91,5.66,Medium Risk
+23,IT,3.87,4.11,2.81,12.8,Veg,74.78,9.74,Day Scholar,36.22,5.03,High Risk
+25,Civil,4.79,6.82,6.57,13.79,Veg,88.02,4.07,Day Scholar,79.75,8.79,Low Risk
+23,Civil,4.41,7.37,3.92,12.78,Non-Veg,75.98,3.83,Day Scholar,72.0,7.94,Low Risk
+19,Electrical,4.39,5.54,6.65,6.53,Veg,84.29,5.22,Day Scholar,65.09,7.43,Low Risk
+19,Civil,2.47,5.83,6.37,6.87,Veg,71.95,3.55,Day Scholar,61.43,6.27,Medium Risk
+24,CSE,1.47,5.72,5.31,1.05,Veg,72.49,3.02,Day Scholar,54.75,6.25,Medium Risk
+21,Electrical,5.71,6.08,1.33,9.32,Veg,91.81,5.93,Day Scholar,78.02,8.68,Low Risk
+20,Electrical,3.18,7.83,6.36,7.95,Non-Veg,73.64,2.08,Day Scholar,60.92,7.27,Low Risk
+24,Mechanical,3.93,6.36,6.0,21.0,Non-Veg,78.52,4.65,Day Scholar,63.42,8.33,Low Risk
+22,Civil,4.49,7.51,5.82,13.09,Non-Veg,72.52,4.45,Hosteller,63.05,7.09,Low Risk
+18,Electrical,6.44,5.34,5.39,8.77,Veg,91.57,9.57,Hosteller,59.99,6.82,High Risk
+20,CSE,4.24,6.04,3.24,6.77,Non-Veg,74.86,5.19,Hosteller,69.56,6.78,Medium Risk
+20,Mechanical,3.41,7.64,7.17,12.61,Veg,75.95,2.2,Day Scholar,73.33,7.78,Low Risk
+22,IT,3.21,5.53,6.8,1.87,Veg,72.88,5.38,Day Scholar,51.91,6.0,Medium Risk
+22,Electrical,3.94,7.71,2.85,13.38,Non-Veg,75.34,3.63,Day Scholar,66.93,7.36,Low Risk
+17,CSE,2.64,5.75,7.63,0.91,Veg,79.12,3.7,Hosteller,58.79,6.03,Medium Risk
+24,ECE,4.04,6.11,5.26,3.86,Non-Veg,73.84,5.41,Hosteller,68.7,7.35,Low Risk
+22,CSE,3.92,8.5,5.26,0.0,Veg,74.79,2.03,Day Scholar,83.27,8.32,Low Risk
+19,CSE,6.46,5.98,4.65,10.44,Non-Veg,88.82,6.95,Hosteller,65.68,7.74,Medium Risk
+25,Mechanical,3.87,6.67,4.84,8.4,Non-Veg,76.97,2.3,Hosteller,77.87,8.11,Low Risk
+18,IT,1.11,7.24,7.74,3.86,Veg,61.18,1.0,Day Scholar,52.5,6.07,Medium Risk
+24,ECE,8.01,6.77,7.07,1.8,Veg,98.26,6.48,Day Scholar,85.31,9.37,Medium Risk
+19,Civil,5.44,6.81,7.02,14.72,Non-Veg,88.69,4.99,Hosteller,69.92,8.08,Low Risk
+21,Civil,7.12,6.43,5.37,6.25,Veg,98.97,8.27,Day Scholar,71.72,8.05,High Risk
+22,CSE,2.26,4.94,6.78,2.7,Veg,74.43,2.82,Hosteller,61.89,6.76,Medium Risk
+22,Mechanical,3.67,6.92,3.33,17.76,Non-Veg,68.8,3.56,Hosteller,78.01,8.34,Low Risk
+20,Mechanical,5.01,5.62,6.17,3.32,Veg,86.96,6.46,Hosteller,66.51,7.36,Medium Risk
+19,Civil,4.8,7.43,4.69,13.38,Non-Veg,86.23,4.14,Day Scholar,59.83,8.03,Low Risk
+20,ECE,4.46,8.15,1.0,0.55,Veg,78.99,2.83,Hosteller,70.4,7.86,Low Risk
+17,IT,0.7,4.33,1.83,5.01,Veg,71.84,3.69,Hosteller,43.35,4.0,High Risk
+20,ECE,1.43,8.15,3.67,9.81,Non-Veg,72.6,1.0,Day Scholar,64.85,7.25,Low Risk
+17,Electrical,6.28,6.01,5.83,6.68,Veg,90.47,7.27,Day Scholar,71.9,7.16,Medium Risk
+17,Electrical,6.54,6.34,3.68,8.37,Veg,89.74,6.77,Hosteller,61.43,6.89,Medium Risk
+22,IT,3.84,5.41,3.82,3.98,Veg,87.46,6.3,Day Scholar,49.02,6.32,Medium Risk
+21,Civil,6.09,6.73,6.53,0.0,Veg,90.33,5.05,Day Scholar,75.25,8.6,Low Risk
+20,IT,2.47,6.58,3.89,15.21,Veg,72.75,3.57,Hosteller,61.07,7.1,Low Risk
+19,Mechanical,2.81,7.79,7.66,4.32,Veg,74.4,2.44,Day Scholar,71.24,8.04,Low Risk
+17,Electrical,2.35,5.61,7.33,8.62,Veg,83.25,3.94,Hosteller,55.16,6.79,Medium Risk
+22,CSE,2.73,8.49,5.04,10.93,Veg,72.54,1.22,Day Scholar,75.72,8.42,Low Risk
+18,CSE,5.08,7.3,6.51,8.73,Non-Veg,85.3,2.9,Day Scholar,69.52,7.91,Low Risk
+24,Civil,2.71,6.61,6.23,3.03,Non-Veg,69.38,4.48,Hosteller,65.17,6.53,Medium Risk
+21,Mechanical,7.36,6.28,4.51,13.49,Veg,94.85,8.92,Hosteller,68.54,8.29,High Risk
+23,ECE,4.69,6.13,6.72,9.88,Non-Veg,78.29,4.6,Day Scholar,70.39,7.68,Low Risk
+18,Mechanical,5.63,6.21,7.02,8.11,Non-Veg,84.08,7.18,Day Scholar,68.55,7.39,Medium Risk
+24,CSE,4.73,6.7,3.1,7.98,Veg,74.62,5.22,Day Scholar,72.54,7.63,Low Risk
+18,CSE,5.82,6.25,5.31,16.42,Non-Veg,93.51,5.99,Hosteller,70.8,8.07,Low Risk
+20,Electrical,2.7,5.73,5.29,2.91,Veg,74.27,5.16,Day Scholar,56.72,6.18,Medium Risk
+17,Mechanical,6.17,6.71,6.7,9.33,Non-Veg,92.05,6.03,Hosteller,72.07,7.81,Medium Risk
+21,Mechanical,4.21,5.5,4.11,4.04,Veg,80.79,7.07,Day Scholar,42.64,5.65,High Risk
+25,CSE,5.81,6.89,3.8,0.0,Veg,89.43,6.46,Day Scholar,68.79,7.83,Medium Risk
+17,ECE,1.84,6.23,5.34,0.0,Non-Veg,77.3,3.56,Day Scholar,56.63,6.31,Medium Risk
+25,Civil,4.27,7.34,7.36,1.32,Veg,77.51,4.51,Day Scholar,69.71,7.7,Low Risk
+24,Civil,4.22,7.69,2.6,3.31,Veg,82.48,4.06,Day Scholar,75.29,8.33,Low Risk
+22,Mechanical,3.07,7.69,2.95,19.17,Veg,76.72,2.6,Hosteller,75.68,8.17,Low Risk
+23,Civil,4.47,6.88,3.96,10.91,Veg,88.06,3.86,Hosteller,80.32,7.85,Low Risk
+19,CSE,6.31,7.02,4.31,11.41,Non-Veg,93.74,6.35,Hosteller,71.15,8.24,Medium Risk
+17,CSE,2.96,6.11,1.47,3.43,Non-Veg,77.22,4.76,Day Scholar,63.6,6.85,Medium Risk
+21,Mechanical,5.44,7.31,8.0,7.34,Veg,80.92,5.85,Hosteller,80.19,8.19,Low Risk
+18,Mechanical,2.31,7.45,4.74,19.91,Veg,67.5,2.36,Hosteller,53.51,6.95,Medium Risk
+21,Electrical,7.16,4.62,4.44,0.2,Non-Veg,89.99,7.45,Day Scholar,76.19,8.32,Medium Risk
+24,Mechanical,5.18,6.95,8.25,9.55,Veg,73.51,5.01,Day Scholar,62.89,7.92,Low Risk
+25,ECE,6.59,8.14,6.44,16.02,Non-Veg,94.92,5.13,Hosteller,91.75,8.98,Low Risk
+18,Civil,5.01,6.07,3.93,12.41,Veg,83.73,4.83,Hosteller,74.49,7.99,Low Risk
+19,Mechanical,4.59,5.81,5.33,17.09,Veg,84.92,6.68,Hosteller,62.77,6.76,Medium Risk
+19,IT,5.19,6.0,4.92,8.19,Veg,86.12,4.17,Hosteller,63.62,8.11,Low Risk
+17,Electrical,3.8,4.69,7.9,10.38,Veg,80.18,6.94,Hosteller,54.03,6.28,Medium Risk
+24,IT,1.57,6.65,4.67,7.61,Veg,74.56,3.25,Hosteller,57.87,6.71,Medium Risk
+22,CSE,4.67,6.54,2.12,9.99,Veg,83.39,4.93,Hosteller,80.89,8.01,Low Risk
+24,Civil,2.87,6.74,1.25,1.87,Veg,77.68,3.06,Day Scholar,69.2,7.28,Low Risk
+25,Mechanical,2.35,7.0,7.95,11.44,Veg,70.23,3.32,Hosteller,41.32,5.51,Medium Risk
+21,IT,4.95,5.54,3.42,8.65,Veg,88.9,5.65,Day Scholar,69.92,7.51,Low Risk
+19,Civil,3.58,6.83,6.34,7.35,Veg,71.71,4.41,Day Scholar,58.99,7.39,Low Risk
+21,CSE,5.54,7.03,5.14,16.78,Veg,78.52,4.59,Day Scholar,69.74,8.65,Low Risk
+21,ECE,2.82,5.91,4.17,5.51,Veg,84.62,2.69,Hosteller,61.57,6.59,Medium Risk
+21,Electrical,3.29,7.0,4.48,13.76,Veg,85.65,3.59,Hosteller,59.89,6.24,Medium Risk
+19,Civil,5.73,6.6,8.17,14.32,Non-Veg,78.9,6.1,Day Scholar,77.24,8.33,Medium Risk
+20,Civil,4.42,5.74,2.1,11.79,Non-Veg,81.92,3.96,Hosteller,72.41,7.0,Low Risk
+25,ECE,1.78,6.84,4.23,1.6,Veg,69.67,3.36,Hosteller,65.22,7.04,Low Risk
+25,Civil,4.39,6.15,6.81,9.01,Veg,85.55,4.82,Day Scholar,64.99,7.13,Low Risk
+18,CSE,6.22,7.34,2.43,17.97,Veg,99.81,6.4,Hosteller,63.83,7.77,Medium Risk
+24,CSE,3.28,6.21,7.63,0.0,Non-Veg,71.1,5.67,Day Scholar,64.45,6.68,Medium Risk
+24,ECE,4.9,4.95,6.78,5.95,Veg,79.45,7.19,Day Scholar,55.45,7.08,Medium Risk
+23,Electrical,2.73,6.82,5.54,13.51,Veg,73.62,4.18,Day Scholar,73.32,7.02,Low Risk
+24,Mechanical,3.79,6.78,3.99,6.35,Non-Veg,74.16,3.16,Day Scholar,75.78,7.94,Low Risk
+19,IT,5.63,5.2,2.18,11.54,Veg,74.6,8.85,Hosteller,71.65,6.41,High Risk
+22,Mechanical,4.33,7.4,6.41,14.89,Veg,80.51,3.1,Day Scholar,68.4,7.38,Low Risk
+17,Civil,5.93,7.34,10.5,8.3,Veg,93.96,5.02,Hosteller,79.53,8.33,Low Risk
+23,IT,4.64,5.46,5.29,9.85,Non-Veg,83.09,4.73,Hosteller,60.56,6.88,Medium Risk
+17,ECE,7.33,5.71,1.35,7.51,Veg,99.76,8.89,Hosteller,72.58,8.09,High Risk
+25,ECE,1.65,6.33,5.92,8.67,Non-Veg,70.67,2.95,Hosteller,56.02,6.81,Medium Risk
+17,Electrical,3.67,5.59,6.72,18.77,Non-Veg,73.24,5.85,Day Scholar,52.64,6.65,Medium Risk
+17,IT,2.37,7.27,3.16,6.64,Veg,72.21,1.0,Day Scholar,69.14,7.58,Low Risk
+23,CSE,2.48,6.68,3.71,5.02,Veg,64.75,3.17,Day Scholar,60.18,6.71,Medium Risk
+18,IT,2.49,5.19,3.51,12.83,Veg,69.89,4.71,Day Scholar,54.09,6.61,Medium Risk
+21,Civil,4.25,5.51,3.94,2.28,Non-Veg,81.51,6.35,Day Scholar,48.0,5.83,Medium Risk
+24,CSE,4.34,7.93,4.66,3.56,Non-Veg,81.69,2.64,Hosteller,70.3,7.79,Low Risk
+24,ECE,4.64,8.34,3.28,3.59,Veg,76.75,1.0,Day Scholar,84.53,10.0,Low Risk
+19,IT,2.32,7.15,2.53,5.57,Non-Veg,66.13,2.88,Hosteller,58.74,6.33,Medium Risk
+23,Mechanical,3.51,6.25,5.35,5.81,Veg,79.02,4.12,Hosteller,61.17,7.39,Low Risk
+19,Electrical,2.55,5.97,4.63,10.91,Veg,76.9,3.86,Day Scholar,63.71,6.94,Medium Risk
+22,Mechanical,5.4,7.16,4.13,5.08,Non-Veg,85.98,5.15,Hosteller,58.74,7.17,Low Risk
+22,Electrical,2.69,6.59,5.17,11.14,Non-Veg,72.19,3.34,Hosteller,48.87,6.07,Medium Risk
+19,Civil,3.68,4.57,1.96,11.84,Veg,83.05,6.85,Day Scholar,48.48,6.7,Medium Risk
+23,Mechanical,4.84,7.74,5.53,3.34,Non-Veg,80.34,2.25,Day Scholar,73.83,8.29,Low Risk
+19,IT,3.08,8.11,4.17,11.72,Non-Veg,84.02,3.1,Day Scholar,70.86,7.07,Low Risk
+24,IT,5.04,7.38,5.48,12.23,Non-Veg,78.48,4.47,Hosteller,78.08,7.9,Low Risk
+20,Mechanical,6.39,5.19,5.8,0.0,Non-Veg,97.21,9.83,Day Scholar,59.58,6.44,High Risk
+17,IT,4.28,5.74,7.26,8.64,Non-Veg,84.12,5.09,Day Scholar,57.08,7.45,Low Risk
+20,Civil,5.35,4.27,5.21,4.16,Veg,98.81,7.4,Hosteller,60.51,6.25,High Risk
+23,CSE,0.89,8.42,7.13,14.3,Non-Veg,58.84,1.0,Day Scholar,54.54,5.93,Medium Risk
+20,Civil,3.36,6.07,4.36,4.11,Veg,65.11,4.78,Hosteller,64.31,7.37,Low Risk
+22,Electrical,4.28,9.3,4.45,0.0,Non-Veg,87.63,1.7,Hosteller,81.18,8.35,Low Risk
+25,Civil,2.42,8.85,4.82,6.83,Veg,64.75,1.15,Day Scholar,70.59,7.5,Low Risk
+17,Electrical,4.31,5.42,6.55,1.98,Non-Veg,84.64,5.51,Hosteller,76.7,7.43,Medium Risk
+21,IT,5.59,5.65,6.26,11.76,Veg,93.86,6.97,Hosteller,59.81,7.43,Medium Risk
+23,CSE,1.18,7.06,5.27,2.47,Veg,67.8,3.36,Day Scholar,53.38,6.67,Medium Risk
+17,IT,2.22,4.39,2.54,6.9,Veg,72.24,5.18,Day Scholar,48.9,6.08,Medium Risk
+20,ECE,4.28,5.97,6.23,15.66,Non-Veg,83.39,5.74,Day Scholar,59.89,6.81,Medium Risk
+22,IT,4.69,5.85,3.28,13.15,Non-Veg,87.64,4.36,Hosteller,81.62,8.19,Low Risk
+18,Electrical,5.11,8.72,3.17,9.68,Veg,88.47,4.74,Hosteller,73.12,8.47,Low Risk
+21,IT,4.17,6.69,2.72,6.29,Non-Veg,74.75,5.54,Day Scholar,58.89,6.88,Medium Risk
+17,IT,4.69,6.16,4.83,9.14,Non-Veg,92.59,4.82,Day Scholar,71.8,7.75,Low Risk
+22,CSE,5.36,5.74,7.42,10.86,Non-Veg,87.03,7.66,Day Scholar,61.9,6.41,High Risk
+22,IT,3.38,7.57,3.07,1.48,Veg,79.48,3.14,Hosteller,60.98,8.02,Low Risk
+20,CSE,3.09,5.9,8.36,11.77,Non-Veg,78.99,4.23,Day Scholar,69.24,7.12,Low Risk
+24,Mechanical,3.75,6.44,6.82,0.83,Veg,84.52,5.6,Hosteller,58.98,6.92,Medium Risk
+20,ECE,4.3,5.73,2.07,10.21,Non-Veg,86.76,5.05,Day Scholar,55.75,6.25,Medium Risk
+24,CSE,3.01,4.68,4.23,0.8,Non-Veg,75.72,4.61,Hosteller,69.53,6.94,Medium Risk
+24,Electrical,3.41,5.3,2.92,17.99,Non-Veg,77.38,5.31,Hosteller,59.5,6.73,Medium Risk
+21,Mechanical,4.6,5.9,6.33,11.27,Non-Veg,85.03,6.23,Day Scholar,55.86,7.06,Medium Risk
+20,CSE,4.24,6.18,3.02,0.0,Veg,86.68,6.02,Hosteller,54.58,6.88,Medium Risk
+18,CSE,3.72,6.24,1.76,6.99,Veg,73.05,4.33,Hosteller,62.06,6.91,Medium Risk
+19,ECE,1.39,6.39,4.35,4.08,Veg,70.16,1.15,Day Scholar,57.69,6.6,Medium Risk
+19,Electrical,3.99,5.91,7.34,3.42,Veg,75.54,7.61,Day Scholar,60.43,6.68,Medium Risk
+20,Civil,2.54,8.12,4.61,7.82,Veg,81.98,1.0,Hosteller,66.33,7.59,Low Risk
+20,Civil,5.47,7.64,5.8,1.8,Non-Veg,89.21,4.89,Hosteller,80.07,8.21,Low Risk
+21,CSE,3.54,6.34,5.87,11.26,Non-Veg,75.6,4.98,Hosteller,61.61,6.83,Medium Risk
+20,IT,2.51,6.81,1.98,10.95,Veg,74.67,3.85,Day Scholar,51.11,6.66,Medium Risk
+24,Electrical,3.91,6.05,3.2,8.97,Veg,79.58,4.29,Hosteller,66.73,6.96,Medium Risk
+22,Mechanical,5.91,3.09,5.01,6.89,Veg,88.73,7.94,Hosteller,69.77,6.69,Medium Risk
+22,IT,4.95,6.52,3.89,10.69,Veg,75.68,4.83,Day Scholar,72.73,7.99,Low Risk
+24,IT,4.33,6.87,8.41,11.43,Veg,76.53,5.32,Day Scholar,63.46,6.92,Medium Risk
+23,Electrical,2.01,4.56,2.54,9.55,Non-Veg,69.35,5.08,Day Scholar,45.71,5.51,Medium Risk
+24,CSE,6.43,7.1,3.18,0.0,Veg,83.72,7.0,Day Scholar,81.08,9.14,Medium Risk
+18,CSE,3.07,6.16,5.58,2.59,Non-Veg,72.4,4.62,Day Scholar,62.43,6.66,Medium Risk
+25,CSE,5.4,6.91,3.74,5.5,Veg,84.5,6.84,Hosteller,69.61,7.11,Medium Risk
+17,CSE,3.51,6.2,1.0,0.0,Non-Veg,73.66,3.54,Hosteller,63.09,6.76,Medium Risk
+24,Civil,5.26,8.0,8.87,8.25,Non-Veg,90.14,3.06,Hosteller,82.93,8.2,Low Risk
+20,CSE,5.96,6.77,2.85,14.9,Non-Veg,85.4,6.56,Day Scholar,79.48,8.78,Medium Risk
+20,Civil,4.97,7.7,6.12,14.01,Non-Veg,85.3,3.22,Day Scholar,75.95,9.06,Low Risk
+21,Civil,5.13,7.8,2.49,11.14,Non-Veg,83.9,3.07,Day Scholar,67.2,8.07,Low Risk
+24,CSE,3.85,5.16,3.27,11.08,Non-Veg,78.67,6.92,Hosteller,63.53,6.37,Medium Risk
+21,ECE,3.35,5.61,1.75,19.41,Non-Veg,84.78,4.99,Day Scholar,70.27,7.25,Low Risk
+24,Mechanical,4.21,7.04,3.52,11.73,Veg,81.94,4.19,Day Scholar,60.67,7.65,Low Risk
+17,IT,3.49,6.06,3.71,12.18,Veg,79.32,4.48,Day Scholar,59.41,6.72,Medium Risk
+25,Civil,7.7,6.21,4.73,0.0,Veg,94.68,8.38,Hosteller,84.36,9.47,High Risk
+22,Electrical,2.51,8.04,4.25,14.46,Non-Veg,75.69,2.68,Day Scholar,53.46,6.36,Medium Risk
+19,Electrical,5.5,6.13,2.12,9.23,Veg,90.44,4.86,Day Scholar,77.42,9.39,Low Risk
+24,Mechanical,4.78,5.34,3.95,6.55,Non-Veg,86.32,4.88,Hosteller,63.62,7.5,Low Risk
+25,Electrical,4.34,5.5,7.89,5.17,Non-Veg,75.68,4.91,Day Scholar,66.15,7.88,Low Risk
+22,ECE,6.22,9.12,7.66,3.93,Veg,88.17,4.39,Day Scholar,70.81,8.64,Low Risk
+23,Electrical,4.45,6.29,5.91,14.04,Veg,89.41,6.97,Day Scholar,62.4,6.47,Medium Risk
+17,IT,3.05,4.86,6.33,6.84,Non-Veg,71.8,6.05,Hosteller,50.42,5.45,High Risk
+21,IT,4.44,4.38,9.12,4.13,Veg,90.04,7.65,Day Scholar,53.4,6.19,High Risk
+21,Civil,3.73,5.75,6.14,2.68,Non-Veg,75.89,4.89,Day Scholar,53.28,7.07,Low Risk
+20,CSE,4.75,6.26,6.29,7.96,Veg,84.52,4.16,Hosteller,74.03,8.39,Low Risk
+22,ECE,5.22,7.64,1.87,4.99,Non-Veg,85.16,5.1,Hosteller,68.08,7.28,Low Risk
+23,Civil,2.71,7.52,2.77,3.71,Veg,69.33,4.21,Day Scholar,58.83,6.95,Medium Risk
+25,ECE,5.79,6.49,4.93,0.0,Non-Veg,84.81,6.06,Hosteller,69.88,8.4,Medium Risk
+17,CSE,3.62,5.95,3.39,12.37,Veg,74.57,4.1,Day Scholar,68.43,7.67,Low Risk
+22,Electrical,4.67,6.91,3.0,6.23,Veg,84.07,4.52,Hosteller,70.11,7.6,Low Risk
+23,Electrical,4.93,4.4,3.24,0.92,Veg,89.08,8.12,Day Scholar,45.66,6.18,High Risk
+19,CSE,4.55,8.88,2.15,5.48,Veg,83.17,2.79,Day Scholar,84.39,8.62,Low Risk
+24,Civil,3.84,7.28,3.42,10.08,Non-Veg,79.01,4.46,Day Scholar,61.37,7.51,Low Risk
+21,CSE,3.27,7.54,5.68,7.16,Non-Veg,82.39,2.69,Hosteller,72.69,8.31,Low Risk
+25,Mechanical,3.6,5.21,8.59,8.07,Veg,78.19,5.14,Hosteller,60.37,6.05,Medium Risk
+21,IT,6.35,8.04,6.59,7.24,Veg,89.02,5.54,Day Scholar,75.89,8.36,Low Risk
+25,Civil,2.7,5.95,6.27,0.0,Veg,68.52,3.21,Day Scholar,61.11,6.18,Medium Risk
+20,ECE,2.92,5.36,1.75,12.31,Non-Veg,80.96,6.3,Day Scholar,63.09,6.15,Medium Risk
+25,Mechanical,2.86,6.45,5.24,0.0,Non-Veg,72.63,4.23,Day Scholar,58.28,7.29,Low Risk
+21,Civil,4.2,6.42,4.87,9.58,Veg,78.13,3.68,Hosteller,67.45,6.99,Medium Risk
+25,CSE,1.71,5.21,5.58,10.45,Non-Veg,65.24,2.76,Hosteller,63.19,6.28,Medium Risk
+19,CSE,1.97,5.43,4.28,5.77,Non-Veg,75.92,4.11,Day Scholar,57.06,6.55,Medium Risk
+20,CSE,3.61,5.33,8.32,8.98,Non-Veg,75.18,5.46,Hosteller,61.39,6.99,Medium Risk
+25,CSE,2.07,5.34,5.11,5.45,Non-Veg,75.29,4.03,Hosteller,48.83,6.49,Medium Risk
+22,ECE,2.19,6.03,5.3,9.05,Non-Veg,69.8,2.96,Hosteller,58.24,6.04,Medium Risk
+18,Mechanical,2.08,4.83,1.08,12.56,Non-Veg,64.36,4.7,Day Scholar,43.02,6.19,Medium Risk
+23,Electrical,2.73,5.67,4.79,2.56,Veg,71.99,3.89,Day Scholar,63.45,6.51,Medium Risk
+18,IT,5.1,7.75,7.3,10.77,Non-Veg,85.32,4.91,Hosteller,70.96,8.67,Low Risk
+18,ECE,5.43,7.49,6.11,16.48,Veg,86.59,5.72,Hosteller,81.35,8.27,Low Risk
+17,ECE,6.88,5.24,1.0,8.48,Veg,93.69,10.0,Day Scholar,62.89,6.77,High Risk
+19,Electrical,6.82,7.65,4.1,4.18,Veg,92.51,5.66,Day Scholar,86.64,9.07,Low Risk
+22,Electrical,5.18,4.14,8.46,19.67,Non-Veg,81.97,8.03,Day Scholar,58.37,6.94,High Risk
+24,IT,5.54,9.41,4.7,7.5,Veg,87.76,1.91,Hosteller,77.77,9.38,Low Risk
+25,IT,4.2,8.06,5.64,8.3,Veg,83.69,4.96,Hosteller,60.53,7.71,Low Risk
+23,Electrical,4.78,5.83,8.24,8.41,Veg,76.59,3.98,Hosteller,70.01,7.17,Low Risk
+20,CSE,6.92,6.96,4.69,9.51,Veg,100.0,8.64,Day Scholar,77.33,8.22,High Risk
+22,ECE,4.56,4.82,6.58,5.1,Veg,64.3,6.83,Day Scholar,63.07,6.62,Medium Risk
+21,Civil,5.73,6.57,5.82,8.06,Non-Veg,89.03,6.58,Day Scholar,75.59,8.24,Medium Risk
+24,IT,2.6,6.28,6.25,12.33,Non-Veg,75.32,3.15,Day Scholar,66.88,7.13,Low Risk
+17,IT,3.0,5.5,5.76,4.91,Veg,71.99,4.53,Day Scholar,55.57,6.34,Medium Risk
+17,Electrical,4.47,5.94,3.9,4.65,Non-Veg,71.71,6.12,Hosteller,61.34,6.61,Medium Risk
+22,Mechanical,4.22,5.82,4.1,5.36,Non-Veg,80.64,3.77,Hosteller,58.99,7.03,Low Risk
+18,Civil,3.07,5.14,3.29,0.85,Veg,76.2,4.28,Hosteller,55.29,6.33,Medium Risk
+21,Civil,7.61,5.47,1.72,3.18,Non-Veg,92.31,8.3,Day Scholar,92.76,8.62,High Risk
+17,IT,4.26,4.77,7.49,2.95,Non-Veg,77.14,6.94,Hosteller,50.15,5.55,Medium Risk
+23,CSE,3.34,7.53,5.02,7.0,Veg,81.49,2.81,Day Scholar,54.46,7.15,Low Risk
+17,Mechanical,4.23,5.38,7.39,11.68,Veg,81.73,6.46,Hosteller,61.88,7.1,Medium Risk
+20,Civil,4.04,5.03,8.13,15.14,Non-Veg,72.65,6.17,Hosteller,59.9,7.24,Medium Risk
+25,IT,4.28,7.51,5.11,7.32,Non-Veg,83.66,4.83,Day Scholar,64.97,7.13,Low Risk
+17,Civil,1.61,6.94,2.37,9.56,Veg,63.39,1.0,Hosteller,54.33,6.53,Medium Risk
+20,Mechanical,5.94,7.47,4.61,8.36,Veg,85.82,5.53,Hosteller,80.84,9.1,Low Risk
+22,Mechanical,6.02,7.6,3.66,0.0,Veg,91.1,6.53,Hosteller,69.31,8.11,Medium Risk
+22,ECE,6.21,8.82,1.04,0.57,Non-Veg,91.55,5.29,Hosteller,77.07,8.45,Low Risk
+24,Electrical,4.49,6.31,4.0,11.26,Veg,80.43,3.7,Hosteller,72.18,8.37,Low Risk
+17,Electrical,4.99,4.75,4.86,11.81,Veg,82.45,6.22,Hosteller,67.77,7.33,Medium Risk
+23,IT,2.7,6.83,3.71,11.68,Non-Veg,72.25,2.79,Hosteller,77.38,7.52,Low Risk
+17,Mechanical,5.25,5.7,3.46,6.0,Veg,82.34,6.32,Day Scholar,56.98,6.97,Medium Risk
+23,ECE,4.38,5.35,2.44,0.0,Veg,87.33,5.96,Hosteller,67.48,7.1,Medium Risk
+19,ECE,3.31,6.62,5.39,1.24,Veg,68.7,4.49,Day Scholar,56.02,7.59,Low Risk
+24,Civil,5.3,7.54,8.74,2.1,Non-Veg,85.28,5.05,Hosteller,75.27,8.49,Low Risk
+19,Civil,5.36,5.5,7.56,10.52,Veg,79.48,7.21,Day Scholar,69.64,7.61,Medium Risk
+17,ECE,4.09,8.03,6.31,5.0,Non-Veg,85.13,3.73,Day Scholar,74.04,8.64,Low Risk
+24,Civil,4.66,5.31,6.35,16.47,Veg,82.08,7.42,Hosteller,52.67,6.85,Medium Risk
+19,Mechanical,2.45,6.21,4.73,15.22,Veg,66.98,1.0,Day Scholar,63.98,7.13,Low Risk
+18,CSE,5.86,6.96,1.39,16.37,Veg,92.75,5.51,Day Scholar,85.92,8.7,Low Risk
+17,Mechanical,2.65,6.03,4.26,1.87,Veg,61.8,2.73,Hosteller,57.09,6.42,Medium Risk
+19,ECE,2.94,4.37,3.06,9.75,Non-Veg,76.11,6.05,Day Scholar,54.21,5.71,Medium Risk
+18,ECE,4.09,7.61,5.31,4.33,Veg,86.22,3.02,Hosteller,80.94,8.37,Low Risk
+18,Mechanical,5.67,5.75,7.47,8.84,Non-Veg,89.26,7.0,Day Scholar,64.97,5.85,High Risk
+22,Civil,5.67,7.39,8.95,2.49,Veg,85.82,6.13,Day Scholar,68.26,8.17,Medium Risk
+17,Civil,3.99,4.98,5.13,13.87,Non-Veg,73.75,5.41,Day Scholar,57.53,6.92,Medium Risk
+18,Electrical,5.16,5.19,1.67,2.59,Non-Veg,91.21,7.33,Day Scholar,55.82,6.36,High Risk
+22,ECE,1.47,7.53,5.13,0.0,Non-Veg,71.97,2.49,Hosteller,64.31,6.8,Medium Risk
+19,IT,2.92,6.91,5.18,18.39,Veg,71.38,3.84,Hosteller,52.08,7.08,Low Risk
+20,Electrical,2.95,5.97,6.36,9.48,Veg,71.66,2.39,Hosteller,68.65,7.27,Low Risk
+17,Civil,5.88,6.93,4.96,1.01,Veg,95.33,5.66,Hosteller,80.02,8.81,Low Risk
+24,Mechanical,4.98,5.36,5.13,6.09,Non-Veg,87.57,6.98,Hosteller,63.97,7.4,Medium Risk
+23,Civil,4.28,6.63,3.74,3.77,Veg,72.45,5.2,Day Scholar,71.01,7.65,Low Risk
+23,Mechanical,4.42,6.65,4.38,7.03,Non-Veg,81.13,4.52,Hosteller,68.51,7.12,Low Risk
+19,Electrical,6.35,6.05,6.03,11.5,Non-Veg,90.6,6.66,Day Scholar,77.27,8.01,Medium Risk
+19,ECE,3.74,5.5,1.0,10.62,Veg,79.96,5.31,Hosteller,66.17,7.34,Low Risk
+18,Civil,2.03,6.58,4.37,8.42,Non-Veg,70.17,1.36,Hosteller,64.81,7.02,Low Risk
+17,Mechanical,5.63,6.43,6.38,7.03,Non-Veg,85.59,7.3,Hosteller,75.72,8.25,Medium Risk
+23,ECE,4.27,5.94,8.28,13.04,Non-Veg,82.26,7.2,Hosteller,68.49,6.93,Medium Risk
+23,IT,5.43,5.26,4.2,0.0,Veg,84.91,7.57,Day Scholar,72.96,7.9,Medium Risk
+18,Mechanical,3.93,6.51,7.37,2.81,Veg,96.74,4.19,Hosteller,65.09,6.87,Medium Risk
+23,Electrical,2.74,5.94,8.38,1.52,Veg,74.32,4.74,Day Scholar,61.48,6.33,Medium Risk
+24,IT,4.6,5.26,4.23,12.64,Non-Veg,82.95,7.12,Day Scholar,69.63,6.65,Medium Risk
+17,IT,4.02,6.55,3.88,2.86,Non-Veg,89.29,4.19,Hosteller,66.97,7.77,Low Risk
+25,CSE,4.28,8.43,4.64,0.0,Veg,74.57,2.8,Day Scholar,80.52,8.04,Low Risk
+23,Civil,6.42,6.06,4.84,10.08,Non-Veg,91.57,6.76,Day Scholar,77.48,7.24,Medium Risk
+19,Mechanical,2.35,8.3,7.18,1.91,Veg,67.01,1.22,Hosteller,68.44,7.89,Low Risk

@@ -1,0 +1,168 @@
+{
+  "trained_at_utc": "2026-04-26T12:42:13.053709+00:00",
+  "dataset_path": "C:\\Users\\Aman Vyas\\Desktop\\student_lifestyle_performance_dataset.csv",
+  "cleaned_dataset_path": "C:\\Users\\Aman Vyas\\Desktop\\hehe\\New project 2\\data\\cleaned_student_lifestyle_performance_dataset.csv",
+  "target_column": "Risk_Level",
+  "target_labels": [
+    "Low Risk",
+    "Medium Risk",
+    "High Risk"
+  ],
+  "target_engineering": {
+    "High Risk": "CGPA < 5.5 OR Stress >= 8.0 OR (CGPA < 6.5 AND Stress >= 7.0)",
+    "Medium Risk": "CGPA < 7.0 OR Stress >= 6.0 OR (CGPA < 7.5 AND Stress >= 5.5)",
+    "Low Risk": "All remaining students"
+  },
+  "feature_columns": [
+    "Age",
+    "Branch",
+    "Study_Hours_per_Day",
+    "Sleep_Hours",
+    "Screen_Time_Hours",
+    "Gym_Hours_per_Week",
+    "Diet_Type",
+    "Attendance_Percentage",
+    "Stress_Level_1_to_10",
+    "Residence",
+    "Internal_Marks",
+    "CGPA"
+  ],
+  "numeric_features": [
+    "Age",
+    "Study_Hours_per_Day",
+    "Sleep_Hours",
+    "Screen_Time_Hours",
+    "Gym_Hours_per_Week",
+    "Attendance_Percentage",
+    "Stress_Level_1_to_10",
+    "Internal_Marks",
+    "CGPA"
+  ],
+  "categorical_features": [
+    "Branch",
+    "Diet_Type",
+    "Residence"
+  ],
+  "random_state": 42,
+  "test_size": 0.2,
+  "best_model_name": "Random Forest",
+  "models": {
+    "Random Forest": {
+      "artifact_path": "C:\\Users\\Aman Vyas\\Desktop\\hehe\\New project 2\\models\\random_forest.joblib",
+      "accuracy": 0.955,
+      "f1_score_weighted": 0.9544640943288312,
+      "classification_report": {
+        "High Risk": {
+          "precision": 0.875,
+          "recall": 0.7777777777777778,
+          "f1-score": 0.8235294117647058,
+          "support": 18.0
+        },
+        "Low Risk": {
+          "precision": 0.9894736842105263,
+          "recall": 0.9791666666666666,
+          "f1-score": 0.9842931937172775,
+          "support": 96.0
+        },
+        "Medium Risk": {
+          "precision": 0.9325842696629213,
+          "recall": 0.9651162790697675,
+          "f1-score": 0.9485714285714286,
+          "support": 86.0
+        },
+        "accuracy": 0.955,
+        "macro avg": {
+          "precision": 0.9323526512911492,
+          "recall": 0.9073535745047373,
+          "f1-score": 0.9187980113511373,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.9547086043761087,
+          "recall": 0.955,
+          "f1-score": 0.9544640943288312,
+          "support": 200.0
+        }
+      },
+      "is_best_model": true
+    },
+    "SVM": {
+      "artifact_path": "C:\\Users\\Aman Vyas\\Desktop\\hehe\\New project 2\\models\\svm.joblib",
+      "accuracy": 0.91,
+      "f1_score_weighted": 0.9107394771821,
+      "classification_report": {
+        "High Risk": {
+          "precision": 0.8421052631578947,
+          "recall": 0.8888888888888888,
+          "f1-score": 0.8648648648648649,
+          "support": 18.0
+        },
+        "Low Risk": {
+          "precision": 0.9770114942528736,
+          "recall": 0.8854166666666666,
+          "f1-score": 0.9289617486338798,
+          "support": 96.0
+        },
+        "Medium Risk": {
+          "precision": 0.8617021276595744,
+          "recall": 0.9418604651162791,
+          "f1-score": 0.9,
+          "support": 86.0
+        },
+        "accuracy": 0.91,
+        "macro avg": {
+          "precision": 0.8936062950234476,
+          "recall": 0.9053886735572781,
+          "f1-score": 0.8979422044995816,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.915286905819207,
+          "recall": 0.91,
+          "f1-score": 0.9107394771821,
+          "support": 200.0
+        }
+      },
+      "is_best_model": false
+    },
+    "Logistic Regression": {
+      "artifact_path": "C:\\Users\\Aman Vyas\\Desktop\\hehe\\New project 2\\models\\logistic_regression.joblib",
+      "accuracy": 0.775,
+      "f1_score_weighted": 0.7793550056082026,
+      "classification_report": {
+        "High Risk": {
+          "precision": 0.5,
+          "recall": 0.9444444444444444,
+          "f1-score": 0.6538461538461539,
+          "support": 18.0
+        },
+        "Low Risk": {
+          "precision": 0.8791208791208791,
+          "recall": 0.8333333333333334,
+          "f1-score": 0.8556149732620321,
+          "support": 96.0
+        },
+        "Medium Risk": {
+          "precision": 0.7733333333333333,
+          "recall": 0.6744186046511628,
+          "f1-score": 0.7204968944099379,
+          "support": 86.0
+        },
+        "accuracy": 0.775,
+        "macro avg": {
+          "precision": 0.7174847374847375,
+          "recall": 0.8173987941429801,
+          "f1-score": 0.7433193405060413,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.7995113553113552,
+          "recall": 0.775,
+          "f1-score": 0.7793550056082026,
+          "support": 200.0
+        }
+      },
+      "is_best_model": false
+    }
+  }
+}
