@@ -1,6 +1,6 @@
-pandas
-numpy
-scikit-learn
-joblib
-streamlit
-plotly
+streamlit>=1.52,<1.56
+pandas>=3.0,<3.1
+numpy>=2.4,<2.5
+scikit-learn>=1.8,<1.9
+joblib>=1.5,<1.6
+plotly>=6.6,<7
