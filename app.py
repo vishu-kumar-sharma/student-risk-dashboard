@@ -1336,7 +1336,7 @@ def directory_view(df: pd.DataFrame) -> None:
 
     st.caption(f"Showing {len(filtered_df):,} of {len(df):,} students")
     st.dataframe(
-        styled_student_frame(filtered_df[available_columns]),
+        filtered_df[available_columns],
         use_container_width=True,
         hide_index=True,
     )
