@@ -17,6 +17,13 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+from sklearn.compose import ColumnTransformer
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.impute import SimpleImputer
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.svm import SVC
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -589,20 +596,123 @@ def load_student_data(metadata: dict) -> pd.DataFrame:
 
 @st.cache_resource(show_spinner=False)
 def load_model(artifact_path: str):
-    """Load a persisted sklearn pipeline."""
+    """Load a persisted sklearn pipeline when it is available and compatible."""
     artifact_name = str(artifact_path).replace("\\", "/").split("/")[-1]
     metadata_path = Path(artifact_path)
     local_path = MODEL_DIR / artifact_name
     path = local_path if local_path.exists() else metadata_path
 
     if not path.exists():
-        st.error(
-            f"Model artifact was not found. Expected `{local_path}`. "
-            "For deployment, commit the `models/` folder with the app."
-        )
-        st.stop()
+        return None
 
-    return joblib.load(path)
+    try:
+        return joblib.load(path)
+    except Exception:
+        return None
+
+
+def make_one_hot_encoder() -> OneHotEncoder:
+    """Create a OneHotEncoder that works across sklearn versions."""
+    try:
+        return OneHotEncoder(handle_unknown="ignore", sparse_output=False)
+    except TypeError:
+        return OneHotEncoder(handle_unknown="ignore", sparse=False)
+
+
+def build_runtime_preprocessor(
+    numeric_features: List[str], categorical_features: List[str]
+) -> ColumnTransformer:
+    """Build the same preprocessing shape used by train.py."""
+    numeric_pipeline = Pipeline(
+        steps=[
+            ("imputer", SimpleImputer(strategy="median")),
+            ("scaler", StandardScaler()),
+        ]
+    )
+    categorical_pipeline = Pipeline(
+        steps=[
+            ("imputer", SimpleImputer(strategy="most_frequent")),
+            ("encoder", make_one_hot_encoder()),
+        ]
+    )
+    return ColumnTransformer(
+        transformers=[
+            ("numeric", numeric_pipeline, numeric_features),
+            ("categorical", categorical_pipeline, categorical_features),
+        ]
+    )
+
+
+def runtime_estimator(model_name: str):
+    """Return the selected estimator for Cloud-side compatibility training."""
+    if model_name == "Random Forest":
+        return RandomForestClassifier(
+            n_estimators=300,
+            class_weight="balanced",
+            random_state=42,
+        )
+    if model_name == "SVM":
+        return SVC(
+            kernel="rbf",
+            probability=True,
+            class_weight="balanced",
+            random_state=42,
+        )
+    return LogisticRegression(
+        max_iter=2000,
+        class_weight="balanced",
+        random_state=42,
+    )
+
+
+@st.cache_resource(show_spinner=False)
+def train_runtime_model(
+    model_name: str, training_df: pd.DataFrame, feature_columns: Tuple[str, ...]
+) -> Pipeline:
+    """
+    Train a model in the active Streamlit Cloud sklearn environment.
+
+    This is a safety net for committed .joblib artifacts that were produced with
+    a different sklearn version than the one installed on Streamlit Cloud.
+    """
+    feature_list = list(feature_columns)
+    X = training_df[feature_list].copy()
+    y = training_df[TARGET_COLUMN].copy()
+
+    numeric_features = X.select_dtypes(include=["number"]).columns.tolist()
+    categorical_features = X.select_dtypes(exclude=["number"]).columns.tolist()
+
+    model = Pipeline(
+        steps=[
+            ("preprocessor", build_runtime_preprocessor(numeric_features, categorical_features)),
+            ("model", runtime_estimator(model_name)),
+        ]
+    )
+    model.fit(X, y)
+    return model
+
+
+def predict_with_compatible_model(
+    model_name: str,
+    artifact_path: str,
+    training_df: pd.DataFrame,
+    input_df: pd.DataFrame,
+    feature_columns: List[str],
+):
+    """Predict with saved artifact first, then fall back to a Cloud-trained model."""
+    model = load_model(artifact_path)
+    model_source = "saved artifact"
+
+    if model is not None:
+        try:
+            prediction = model.predict(input_df)[0]
+            return model, prediction, model_source
+        except Exception:
+            pass
+
+    model = train_runtime_model(model_name, training_df, tuple(feature_columns))
+    prediction = model.predict(input_df)[0]
+    return model, prediction, "runtime-trained model"
 
 
 def engineer_risk_level(df: pd.DataFrame) -> pd.DataFrame:
@@ -1258,25 +1368,39 @@ def predictor_view(df: pd.DataFrame, metadata: dict) -> None:
         submitted = st.form_submit_button("Predict")
 
     if submitted:
-        model = load_model(selected_info["artifact_path"])
         input_df = pd.DataFrame([input_values], columns=metadata["feature_columns"])
-        prediction = model.predict(input_df)[0]
+        model, prediction, model_source = predict_with_compatible_model(
+            selected_model_name,
+            selected_info["artifact_path"],
+            df,
+            input_df,
+            metadata["feature_columns"],
+        )
 
         confidence = None
         probability_df = None
         if hasattr(model, "predict_proba"):
-            probabilities = model.predict_proba(input_df)[0]
-            probability_df = pd.DataFrame(
-                {
-                    "Risk Level": model.classes_,
-                    "Probability": probabilities,
-                }
-            ).sort_values("Probability", ascending=False)
-            matching_prediction = probability_df[probability_df["Risk Level"] == prediction]
-            confidence = (
-                float(matching_prediction["Probability"].iloc[0])
-                if not matching_prediction.empty
-                else float(probability_df["Probability"].max())
+            try:
+                probabilities = model.predict_proba(input_df)[0]
+                probability_df = pd.DataFrame(
+                    {
+                        "Risk Level": model.classes_,
+                        "Probability": probabilities,
+                    }
+                ).sort_values("Probability", ascending=False)
+                matching_prediction = probability_df[probability_df["Risk Level"] == prediction]
+                confidence = (
+                    float(matching_prediction["Probability"].iloc[0])
+                    if not matching_prediction.empty
+                    else float(probability_df["Probability"].max())
+                )
+            except Exception:
+                probability_df = None
+
+        if model_source != "saved artifact":
+            st.info(
+                "The committed model artifact was not compatible with this Streamlit Cloud "
+                "environment, so the app trained a compatible model from the bundled dataset."
             )
 
         result_cols = st.columns([0.85, 1.15])
