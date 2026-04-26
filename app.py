@@ -590,8 +590,9 @@ def load_student_data(metadata: dict) -> pd.DataFrame:
 @st.cache_resource(show_spinner=False)
 def load_model(artifact_path: str):
     """Load a persisted sklearn pipeline."""
+    artifact_name = str(artifact_path).replace("\\", "/").split("/")[-1]
     metadata_path = Path(artifact_path)
-    local_path = MODEL_DIR / metadata_path.name
+    local_path = MODEL_DIR / artifact_name
     path = local_path if local_path.exists() else metadata_path
 
     if not path.exists():
