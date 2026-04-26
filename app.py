@@ -1085,6 +1085,11 @@ def risk_cell_style(value: object) -> str:
     )
 
 
+def risk_column_styles(series: pd.Series) -> List[str]:
+    """Color an entire risk-label column in a pandas-version-safe way."""
+    return [risk_cell_style(value) for value in series]
+
+
 def styled_student_frame(frame: pd.DataFrame):
     """Return a formatted dataframe styler with risk color coding."""
     formatters = {
@@ -1097,7 +1102,7 @@ def styled_student_frame(frame: pd.DataFrame):
     formatters = {column: formatter for column, formatter in formatters.items() if column in frame.columns}
     styler = frame.style.format(formatters)
     if TARGET_COLUMN in frame.columns:
-        styler = styler.applymap(risk_cell_style, subset=[TARGET_COLUMN])
+        styler = styler.apply(risk_column_styles, subset=[TARGET_COLUMN], axis=0)
     return styler
 
 
